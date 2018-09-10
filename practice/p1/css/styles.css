@@ -1,0 +1,20 @@
+#blue {
+    background-color: #1D2951;
+    height: 25%;
+    width: 100%;
+}
+#title {
+    font:sans-serif;
+    color:white;
+    font-family: 'Source Sans Pro', sans-serif;
+}
+p {
+    font-family: 'Source Sans Pro', sans-serif;
+    font-size: 24px;
+}
+h2 {
+    font-family: 'Source Sans Pro', sans-serif;
+}
+table {
+    width: 50%;
+}
