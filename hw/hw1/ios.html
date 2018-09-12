@@ -1,33 +1,23 @@
 <!DOCTYPE html>
-<html>
-<!--
-
-First Website
-and comment
-in html
-(comments can span multiple lines)
-
--->
- 
-<!-- This is the head -->
-<!-- All styles and javascript go inside the head -->
+<html lang="en">
+    
     <head>
         <meta charset="utf-8" />
         <title>Operating Systems</title>
-        <link href="css/styles.css" rel="stylesheet" type="text/css" />
+        <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css" integrity="sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO" crossorigin="anonymous">
+        <link href="css/styles.css" rel="stylesheet" type="text/css"/>
+        <link href="https://fonts.googleapis.com/css?family=Roboto+Slab" rel="stylesheet">
     </head>
-<!-- closing head -->
 
-    <!-- This is the body -->
-    <!-- This is where we place the content of our website -->
+
     <body>
         <header>
-            <h1>Operating Systems</h1> <!-- block tag -->
+            <h1>Operating Systems</h1> 
         </header>
 
         <nav>
-            <hr width="50%">
-            <a href="index.html" > Overview </a> <!-- inline tag -->
+            <hr id="navbar">
+            <a href="index.html"> Overview </a>
             <a href="ios.html" class="active"> iOS </a>
             <a href="macos.html"> MacOS </a>
             <a href="windows.html"> Windows </a>
@@ -36,30 +26,22 @@ in html
         <br /><br />
         
         <main>
-            
-            
-            
-            <div id="welcomeText">
-                <br /><br />
-                Hello!</br>
-                <p>Thank you for visiting my professional portfolio website.</p>
-                <p>I am a student of CSUMB studying Software Engineering.</p>
-                <p>Feel free to contact me</p>
-                </br>
-                
-                <em>"Do not pray for easy lives. Pray to be <strong>stronger</strong> men."</em></br>
-                - President John F. Kennedy 
+            <figure id ="os">
+                <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/Kz1F0NB9mrI?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+            </figure>
+            <br />
+            <div id="operatingSystems">
+                <p>iOS is an operating system created by Apple™ for their mobile lineup.</p>
+                <p>The current build of iOS is iOS 11.4.1, but iOS 12 will relase late this fall.</p>
+                <p>Quick facts about iOS</p>
+                <ul>
+                    <li>iOS 1 was released alongside the iPhone 2g in 2007</li>
+                    <li>It runs exclusively on iPhone, iPads, and iPod touch. It is highly optimized, so it run significantly faster than most Android devices.</li>
+                </ul>
             </div>
             
         </main>
-        <!-- This is the footer -->
-        <!-- The footer goes inside the body but not always -->
         
-        <!-- closing footer -->
-        
-    </body>
-    
-  
         <footer>
             <hr>
             CST 336: Internet Programming &copy; 2018 Jeremy Shaw <br />
@@ -70,6 +52,8 @@ in html
             <img src="../../img/otter.jpg" alt="CSUMB logo">
             <br />
         </footer>
-    <!-- closing body -->
+    </body>
+    
+ 
 
 </html>
