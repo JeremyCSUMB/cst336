@@ -48,3 +48,15 @@ h1 {
     font-size: 4em;
     margin-bottom: 0px;
 }
+#macbookman {
+    opacity: .8;
+    transition: transform .2s;
+    margin: 0 auto;
+}
+#macbookman:hover {
+    -webkit-transform: scale(1.2);
+    transform: scale(1.2); 
+}
+#vid {
+    border: 0px;
+}
