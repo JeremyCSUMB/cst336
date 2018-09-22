@@ -1,3 +1,5 @@
 [10-Sep-2018 21:50:08 UTC] PHP Parse error:  syntax error, unexpected '$symbol' (T_VARIABLE), expecting ',' or ';' in /home/ubuntu/workspace/cst336/labs/lab2/index.php on line 11
 [10-Sep-2018 21:50:09 UTC] PHP Parse error:  syntax error, unexpected '$symbol' (T_VARIABLE), expecting ',' or ';' in /home/ubuntu/workspace/cst336/labs/lab2/index.php on line 11
 [10-Sep-2018 21:50:10 UTC] PHP Parse error:  syntax error, unexpected '$symbol' (T_VARIABLE), expecting ',' or ';' in /home/ubuntu/workspace/cst336/labs/lab2/index.php on line 11
+[17-Sep-2018 21:48:10 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO), expecting ',' or ';' in /home/ubuntu/workspace/cst336/labs/lab3/arrays.php on line 31
+[17-Sep-2018 21:48:11 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO), expecting ',' or ';' in /home/ubuntu/workspace/cst336/labs/lab3/arrays.php on line 31

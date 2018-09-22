@@ -1,0 +1,6 @@
+[17-Sep-2018 19:43:29 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO), expecting ',' or ';' in /home/ubuntu/workspace/cst336/practice/p2/rps.php on line 89
+[17-Sep-2018 19:44:05 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/ubuntu/workspace/cst336/practice/p2/rps.php on line 30
+[17-Sep-2018 19:44:05 UTC] PHP Stack trace:
+[17-Sep-2018 19:44:05 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/practice/p2/rps.php:0
+[17-Sep-2018 19:44:05 UTC] PHP   2. generate() /home/ubuntu/workspace/cst336/practice/p2/rps.php:87
+[17-Sep-2018 19:44:05 UTC] PHP   3. array_push() /home/ubuntu/workspace/cst336/practice/p2/rps.php:30
