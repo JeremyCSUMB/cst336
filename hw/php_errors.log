@@ -1,0 +1,210 @@
+[24-Sep-2018 06:08:35 UTC] PHP Warning:  array_rand() expects parameter 1 to be array, null given in /home/ubuntu/workspace/cst336/hw/hw2/inc/functions.php on line 5
+[24-Sep-2018 06:08:35 UTC] PHP Stack trace:
+[24-Sep-2018 06:08:35 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/hw/hw2/index.php:0
+[24-Sep-2018 06:08:35 UTC] PHP   2. getPokemon() /home/ubuntu/workspace/cst336/hw/hw2/index.php:25
+[24-Sep-2018 06:08:35 UTC] PHP   3. choosePokemon() /home/ubuntu/workspace/cst336/hw/hw2/inc/functions.php:18
+[24-Sep-2018 06:08:35 UTC] PHP   4. array_rand() /home/ubuntu/workspace/cst336/hw/hw2/inc/functions.php:5
+[24-Sep-2018 06:08:50 UTC] PHP Warning:  array_rand() expects parameter 1 to be array, null given in /home/ubuntu/workspace/cst336/hw/hw2/inc/functions.php on line 5
+[24-Sep-2018 06:08:50 UTC] PHP Stack trace:
+[24-Sep-2018 06:08:50 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/hw/hw2/index.php:0
+[24-Sep-2018 06:08:50 UTC] PHP   2. getPokemon() /home/ubuntu/workspace/cst336/hw/hw2/index.php:24
+[24-Sep-2018 06:08:50 UTC] PHP   3. choosePokemon() /home/ubuntu/workspace/cst336/hw/hw2/inc/functions.php:18
+[24-Sep-2018 06:08:50 UTC] PHP   4. array_rand() /home/ubuntu/workspace/cst336/hw/hw2/inc/functions.php:5
+[24-Sep-2018 06:20:24 UTC] PHP Warning:  ucfirst() expects parameter 1 to be string, array given in /home/ubuntu/workspace/cst336/hw/hw2/inc/functions.php on line 37
+[24-Sep-2018 06:20:24 UTC] PHP Stack trace:
+[24-Sep-2018 06:20:24 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/hw/hw2/index.php:0
+[24-Sep-2018 06:20:24 UTC] PHP   2. getPokemon() /home/ubuntu/workspace/cst336/hw/hw2/index.php:24
+[24-Sep-2018 06:20:24 UTC] PHP   3. generateImage() /home/ubuntu/workspace/cst336/hw/hw2/inc/functions.php:18
+[24-Sep-2018 06:20:24 UTC] PHP   4. ucfirst() /home/ubuntu/workspace/cst336/hw/hw2/inc/functions.php:37
+[24-Sep-2018 06:20:25 UTC] PHP Warning:  ucfirst() expects parameter 1 to be string, array given in /home/ubuntu/workspace/cst336/hw/hw2/inc/functions.php on line 37
+[24-Sep-2018 06:20:25 UTC] PHP Stack trace:
+[24-Sep-2018 06:20:25 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/hw/hw2/index.php:0
+[24-Sep-2018 06:20:25 UTC] PHP   2. getPokemon() /home/ubuntu/workspace/cst336/hw/hw2/index.php:24
+[24-Sep-2018 06:20:25 UTC] PHP   3. generateImage() /home/ubuntu/workspace/cst336/hw/hw2/inc/functions.php:18
+[24-Sep-2018 06:20:25 UTC] PHP   4. ucfirst() /home/ubuntu/workspace/cst336/hw/hw2/inc/functions.php:37
+[24-Sep-2018 06:20:27 UTC] PHP Warning:  ucfirst() expects parameter 1 to be string, array given in /home/ubuntu/workspace/cst336/hw/hw2/inc/functions.php on line 37
+[24-Sep-2018 06:20:27 UTC] PHP Stack trace:
+[24-Sep-2018 06:20:27 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/hw/hw2/index.php:0
+[24-Sep-2018 06:20:27 UTC] PHP   2. getPokemon() /home/ubuntu/workspace/cst336/hw/hw2/index.php:24
+[24-Sep-2018 06:20:27 UTC] PHP   3. generateImage() /home/ubuntu/workspace/cst336/hw/hw2/inc/functions.php:18
+[24-Sep-2018 06:20:27 UTC] PHP   4. ucfirst() /home/ubuntu/workspace/cst336/hw/hw2/inc/functions.php:37
+[24-Sep-2018 06:20:29 UTC] PHP Warning:  ucfirst() expects parameter 1 to be string, array given in /home/ubuntu/workspace/cst336/hw/hw2/inc/functions.php on line 37
+[24-Sep-2018 06:20:29 UTC] PHP Stack trace:
+[24-Sep-2018 06:20:29 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/hw/hw2/index.php:0
+[24-Sep-2018 06:20:29 UTC] PHP   2. getPokemon() /home/ubuntu/workspace/cst336/hw/hw2/index.php:24
+[24-Sep-2018 06:20:29 UTC] PHP   3. generateImage() /home/ubuntu/workspace/cst336/hw/hw2/inc/functions.php:18
+[24-Sep-2018 06:20:29 UTC] PHP   4. ucfirst() /home/ubuntu/workspace/cst336/hw/hw2/inc/functions.php:37
+[24-Sep-2018 06:37:20 UTC] PHP Warning:  array_rand() expects parameter 1 to be array, null given in /home/ubuntu/workspace/cst336/hw/hw2/inc/functions.php on line 5
+[24-Sep-2018 06:37:20 UTC] PHP Stack trace:
+[24-Sep-2018 06:37:20 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/hw/hw2/index.php:0
+[24-Sep-2018 06:37:20 UTC] PHP   2. getPokemon() /home/ubuntu/workspace/cst336/hw/hw2/index.php:16
+[24-Sep-2018 06:37:20 UTC] PHP   3. choosePokemon() /home/ubuntu/workspace/cst336/hw/hw2/inc/functions.php:19
+[24-Sep-2018 06:37:20 UTC] PHP   4. array_rand() /home/ubuntu/workspace/cst336/hw/hw2/inc/functions.php:5
+[24-Sep-2018 06:47:47 UTC] PHP Warning:  array_rand() expects parameter 1 to be array, null given in /home/ubuntu/workspace/cst336/hw/hw2/inc/functions.php on line 5
+[24-Sep-2018 06:47:47 UTC] PHP Stack trace:
+[24-Sep-2018 06:47:47 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/hw/hw2/index.php:0
+[24-Sep-2018 06:47:47 UTC] PHP   2. getPokemon() /home/ubuntu/workspace/cst336/hw/hw2/index.php:19
+[24-Sep-2018 06:47:47 UTC] PHP   3. choosePokemon() /home/ubuntu/workspace/cst336/hw/hw2/inc/functions.php:19
+[24-Sep-2018 06:47:47 UTC] PHP   4. array_rand() /home/ubuntu/workspace/cst336/hw/hw2/inc/functions.php:5
+[24-Sep-2018 06:49:53 UTC] PHP Warning:  array_rand() expects parameter 1 to be array, null given in /home/ubuntu/workspace/cst336/hw/hw2/inc/functions.php on line 5
+[24-Sep-2018 06:49:53 UTC] PHP Stack trace:
+[24-Sep-2018 06:49:53 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/hw/hw2/index.php:0
+[24-Sep-2018 06:49:53 UTC] PHP   2. getPokemon() /home/ubuntu/workspace/cst336/hw/hw2/index.php:19
+[24-Sep-2018 06:49:53 UTC] PHP   3. choosePokemon() /home/ubuntu/workspace/cst336/hw/hw2/inc/functions.php:19
+[24-Sep-2018 06:49:53 UTC] PHP   4. array_rand() /home/ubuntu/workspace/cst336/hw/hw2/inc/functions.php:5
+[24-Sep-2018 06:50:54 UTC] PHP Warning:  array_rand() expects parameter 1 to be array, null given in /home/ubuntu/workspace/cst336/hw/hw2/inc/functions.php on line 5
+[24-Sep-2018 06:50:54 UTC] PHP Stack trace:
+[24-Sep-2018 06:50:54 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/hw/hw2/index.php:0
+[24-Sep-2018 06:50:54 UTC] PHP   2. getPokemon() /home/ubuntu/workspace/cst336/hw/hw2/index.php:19
+[24-Sep-2018 06:50:54 UTC] PHP   3. choosePokemon() /home/ubuntu/workspace/cst336/hw/hw2/inc/functions.php:19
+[24-Sep-2018 06:50:54 UTC] PHP   4. array_rand() /home/ubuntu/workspace/cst336/hw/hw2/inc/functions.php:5
+[24-Sep-2018 06:50:55 UTC] PHP Warning:  array_rand() expects parameter 1 to be array, null given in /home/ubuntu/workspace/cst336/hw/hw2/inc/functions.php on line 5
+[24-Sep-2018 06:50:55 UTC] PHP Stack trace:
+[24-Sep-2018 06:50:55 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/hw/hw2/index.php:0
+[24-Sep-2018 06:50:55 UTC] PHP   2. getPokemon() /home/ubuntu/workspace/cst336/hw/hw2/index.php:19
+[24-Sep-2018 06:50:55 UTC] PHP   3. choosePokemon() /home/ubuntu/workspace/cst336/hw/hw2/inc/functions.php:19
+[24-Sep-2018 06:50:55 UTC] PHP   4. array_rand() /home/ubuntu/workspace/cst336/hw/hw2/inc/functions.php:5
+[24-Sep-2018 06:50:56 UTC] PHP Warning:  array_rand() expects parameter 1 to be array, null given in /home/ubuntu/workspace/cst336/hw/hw2/inc/functions.php on line 5
+[24-Sep-2018 06:50:56 UTC] PHP Stack trace:
+[24-Sep-2018 06:50:56 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/hw/hw2/index.php:0
+[24-Sep-2018 06:50:56 UTC] PHP   2. getPokemon() /home/ubuntu/workspace/cst336/hw/hw2/index.php:19
+[24-Sep-2018 06:50:56 UTC] PHP   3. choosePokemon() /home/ubuntu/workspace/cst336/hw/hw2/inc/functions.php:19
+[24-Sep-2018 06:50:56 UTC] PHP   4. array_rand() /home/ubuntu/workspace/cst336/hw/hw2/inc/functions.php:5
+[24-Sep-2018 06:50:57 UTC] PHP Warning:  array_rand() expects parameter 1 to be array, null given in /home/ubuntu/workspace/cst336/hw/hw2/inc/functions.php on line 5
+[24-Sep-2018 06:50:57 UTC] PHP Stack trace:
+[24-Sep-2018 06:50:57 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/hw/hw2/index.php:0
+[24-Sep-2018 06:50:57 UTC] PHP   2. getPokemon() /home/ubuntu/workspace/cst336/hw/hw2/index.php:19
+[24-Sep-2018 06:50:57 UTC] PHP   3. choosePokemon() /home/ubuntu/workspace/cst336/hw/hw2/inc/functions.php:19
+[24-Sep-2018 06:50:57 UTC] PHP   4. array_rand() /home/ubuntu/workspace/cst336/hw/hw2/inc/functions.php:5
+[24-Sep-2018 06:50:58 UTC] PHP Warning:  array_rand() expects parameter 1 to be array, null given in /home/ubuntu/workspace/cst336/hw/hw2/inc/functions.php on line 5
+[24-Sep-2018 06:50:58 UTC] PHP Stack trace:
+[24-Sep-2018 06:50:58 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/hw/hw2/index.php:0
+[24-Sep-2018 06:50:58 UTC] PHP   2. getPokemon() /home/ubuntu/workspace/cst336/hw/hw2/index.php:19
+[24-Sep-2018 06:50:58 UTC] PHP   3. choosePokemon() /home/ubuntu/workspace/cst336/hw/hw2/inc/functions.php:19
+[24-Sep-2018 06:50:58 UTC] PHP   4. array_rand() /home/ubuntu/workspace/cst336/hw/hw2/inc/functions.php:5
+[24-Sep-2018 07:17:05 UTC] PHP Warning:  array_pop() expects parameter 1 to be array, string given in /home/ubuntu/workspace/cst336/hw/hw2/inc/functions.php on line 63
+[24-Sep-2018 07:17:05 UTC] PHP Stack trace:
+[24-Sep-2018 07:17:05 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/hw/hw2/index.php:0
+[24-Sep-2018 07:17:05 UTC] PHP   2. getPokemon() /home/ubuntu/workspace/cst336/hw/hw2/index.php:19
+[24-Sep-2018 07:17:05 UTC] PHP   3. generateImage() /home/ubuntu/workspace/cst336/hw/hw2/inc/functions.php:21
+[24-Sep-2018 07:17:05 UTC] PHP   4. randFact() /home/ubuntu/workspace/cst336/hw/hw2/inc/functions.php:44
+[24-Sep-2018 07:17:05 UTC] PHP   5. array_pop() /home/ubuntu/workspace/cst336/hw/hw2/inc/functions.php:63
+[24-Sep-2018 07:17:05 UTC] PHP Warning:  array_pop() expects parameter 1 to be array, string given in /home/ubuntu/workspace/cst336/hw/hw2/inc/functions.php on line 63
+[24-Sep-2018 07:17:05 UTC] PHP Stack trace:
+[24-Sep-2018 07:17:05 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/hw/hw2/index.php:0
+[24-Sep-2018 07:17:05 UTC] PHP   2. getPokemon() /home/ubuntu/workspace/cst336/hw/hw2/index.php:19
+[24-Sep-2018 07:17:05 UTC] PHP   3. generateImage() /home/ubuntu/workspace/cst336/hw/hw2/inc/functions.php:21
+[24-Sep-2018 07:17:05 UTC] PHP   4. randFact() /home/ubuntu/workspace/cst336/hw/hw2/inc/functions.php:44
+[24-Sep-2018 07:17:05 UTC] PHP   5. array_pop() /home/ubuntu/workspace/cst336/hw/hw2/inc/functions.php:63
+[24-Sep-2018 07:17:05 UTC] PHP Warning:  array_pop() expects parameter 1 to be array, string given in /home/ubuntu/workspace/cst336/hw/hw2/inc/functions.php on line 63
+[24-Sep-2018 07:17:05 UTC] PHP Stack trace:
+[24-Sep-2018 07:17:05 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/hw/hw2/index.php:0
+[24-Sep-2018 07:17:05 UTC] PHP   2. getPokemon() /home/ubuntu/workspace/cst336/hw/hw2/index.php:19
+[24-Sep-2018 07:17:05 UTC] PHP   3. generateImage() /home/ubuntu/workspace/cst336/hw/hw2/inc/functions.php:21
+[24-Sep-2018 07:17:05 UTC] PHP   4. randFact() /home/ubuntu/workspace/cst336/hw/hw2/inc/functions.php:44
+[24-Sep-2018 07:17:05 UTC] PHP   5. array_pop() /home/ubuntu/workspace/cst336/hw/hw2/inc/functions.php:63
+[24-Sep-2018 07:17:07 UTC] PHP Warning:  array_pop() expects parameter 1 to be array, string given in /home/ubuntu/workspace/cst336/hw/hw2/inc/functions.php on line 63
+[24-Sep-2018 07:17:07 UTC] PHP Stack trace:
+[24-Sep-2018 07:17:07 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/hw/hw2/index.php:0
+[24-Sep-2018 07:17:07 UTC] PHP   2. getPokemon() /home/ubuntu/workspace/cst336/hw/hw2/index.php:19
+[24-Sep-2018 07:17:07 UTC] PHP   3. generateImage() /home/ubuntu/workspace/cst336/hw/hw2/inc/functions.php:21
+[24-Sep-2018 07:17:07 UTC] PHP   4. randFact() /home/ubuntu/workspace/cst336/hw/hw2/inc/functions.php:44
+[24-Sep-2018 07:17:07 UTC] PHP   5. array_pop() /home/ubuntu/workspace/cst336/hw/hw2/inc/functions.php:63
+[24-Sep-2018 07:17:07 UTC] PHP Warning:  array_pop() expects parameter 1 to be array, string given in /home/ubuntu/workspace/cst336/hw/hw2/inc/functions.php on line 63
+[24-Sep-2018 07:17:07 UTC] PHP Stack trace:
+[24-Sep-2018 07:17:07 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/hw/hw2/index.php:0
+[24-Sep-2018 07:17:07 UTC] PHP   2. getPokemon() /home/ubuntu/workspace/cst336/hw/hw2/index.php:19
+[24-Sep-2018 07:17:07 UTC] PHP   3. generateImage() /home/ubuntu/workspace/cst336/hw/hw2/inc/functions.php:21
+[24-Sep-2018 07:17:07 UTC] PHP   4. randFact() /home/ubuntu/workspace/cst336/hw/hw2/inc/functions.php:44
+[24-Sep-2018 07:17:07 UTC] PHP   5. array_pop() /home/ubuntu/workspace/cst336/hw/hw2/inc/functions.php:63
+[24-Sep-2018 07:17:07 UTC] PHP Warning:  array_pop() expects parameter 1 to be array, string given in /home/ubuntu/workspace/cst336/hw/hw2/inc/functions.php on line 63
+[24-Sep-2018 07:17:07 UTC] PHP Stack trace:
+[24-Sep-2018 07:17:07 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/hw/hw2/index.php:0
+[24-Sep-2018 07:17:07 UTC] PHP   2. getPokemon() /home/ubuntu/workspace/cst336/hw/hw2/index.php:19
+[24-Sep-2018 07:17:07 UTC] PHP   3. generateImage() /home/ubuntu/workspace/cst336/hw/hw2/inc/functions.php:21
+[24-Sep-2018 07:17:07 UTC] PHP   4. randFact() /home/ubuntu/workspace/cst336/hw/hw2/inc/functions.php:44
+[24-Sep-2018 07:17:07 UTC] PHP   5. array_pop() /home/ubuntu/workspace/cst336/hw/hw2/inc/functions.php:63
+[24-Sep-2018 07:17:08 UTC] PHP Warning:  array_pop() expects parameter 1 to be array, string given in /home/ubuntu/workspace/cst336/hw/hw2/inc/functions.php on line 63
+[24-Sep-2018 07:17:08 UTC] PHP Stack trace:
+[24-Sep-2018 07:17:08 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/hw/hw2/index.php:0
+[24-Sep-2018 07:17:08 UTC] PHP   2. getPokemon() /home/ubuntu/workspace/cst336/hw/hw2/index.php:19
+[24-Sep-2018 07:17:08 UTC] PHP   3. generateImage() /home/ubuntu/workspace/cst336/hw/hw2/inc/functions.php:21
+[24-Sep-2018 07:17:08 UTC] PHP   4. randFact() /home/ubuntu/workspace/cst336/hw/hw2/inc/functions.php:44
+[24-Sep-2018 07:17:08 UTC] PHP   5. array_pop() /home/ubuntu/workspace/cst336/hw/hw2/inc/functions.php:63
+[24-Sep-2018 07:17:08 UTC] PHP Warning:  array_pop() expects parameter 1 to be array, string given in /home/ubuntu/workspace/cst336/hw/hw2/inc/functions.php on line 63
+[24-Sep-2018 07:17:08 UTC] PHP Stack trace:
+[24-Sep-2018 07:17:08 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/hw/hw2/index.php:0
+[24-Sep-2018 07:17:08 UTC] PHP   2. getPokemon() /home/ubuntu/workspace/cst336/hw/hw2/index.php:19
+[24-Sep-2018 07:17:08 UTC] PHP   3. generateImage() /home/ubuntu/workspace/cst336/hw/hw2/inc/functions.php:21
+[24-Sep-2018 07:17:08 UTC] PHP   4. randFact() /home/ubuntu/workspace/cst336/hw/hw2/inc/functions.php:44
+[24-Sep-2018 07:17:08 UTC] PHP   5. array_pop() /home/ubuntu/workspace/cst336/hw/hw2/inc/functions.php:63
+[24-Sep-2018 07:17:08 UTC] PHP Warning:  array_pop() expects parameter 1 to be array, string given in /home/ubuntu/workspace/cst336/hw/hw2/inc/functions.php on line 63
+[24-Sep-2018 07:17:08 UTC] PHP Stack trace:
+[24-Sep-2018 07:17:08 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/hw/hw2/index.php:0
+[24-Sep-2018 07:17:08 UTC] PHP   2. getPokemon() /home/ubuntu/workspace/cst336/hw/hw2/index.php:19
+[24-Sep-2018 07:17:08 UTC] PHP   3. generateImage() /home/ubuntu/workspace/cst336/hw/hw2/inc/functions.php:21
+[24-Sep-2018 07:17:08 UTC] PHP   4. randFact() /home/ubuntu/workspace/cst336/hw/hw2/inc/functions.php:44
+[24-Sep-2018 07:17:08 UTC] PHP   5. array_pop() /home/ubuntu/workspace/cst336/hw/hw2/inc/functions.php:63
+[24-Sep-2018 07:17:59 UTC] PHP Warning:  array_pop() expects parameter 1 to be array, integer given in /home/ubuntu/workspace/cst336/hw/hw2/inc/functions.php on line 64
+[24-Sep-2018 07:17:59 UTC] PHP Stack trace:
+[24-Sep-2018 07:17:59 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/hw/hw2/index.php:0
+[24-Sep-2018 07:17:59 UTC] PHP   2. getPokemon() /home/ubuntu/workspace/cst336/hw/hw2/index.php:19
+[24-Sep-2018 07:17:59 UTC] PHP   3. generateImage() /home/ubuntu/workspace/cst336/hw/hw2/inc/functions.php:21
+[24-Sep-2018 07:17:59 UTC] PHP   4. randFact() /home/ubuntu/workspace/cst336/hw/hw2/inc/functions.php:44
+[24-Sep-2018 07:17:59 UTC] PHP   5. array_pop() /home/ubuntu/workspace/cst336/hw/hw2/inc/functions.php:64
+[24-Sep-2018 07:17:59 UTC] PHP Warning:  array_pop() expects parameter 1 to be array, integer given in /home/ubuntu/workspace/cst336/hw/hw2/inc/functions.php on line 64
+[24-Sep-2018 07:17:59 UTC] PHP Stack trace:
+[24-Sep-2018 07:17:59 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/hw/hw2/index.php:0
+[24-Sep-2018 07:17:59 UTC] PHP   2. getPokemon() /home/ubuntu/workspace/cst336/hw/hw2/index.php:19
+[24-Sep-2018 07:17:59 UTC] PHP   3. generateImage() /home/ubuntu/workspace/cst336/hw/hw2/inc/functions.php:21
+[24-Sep-2018 07:17:59 UTC] PHP   4. randFact() /home/ubuntu/workspace/cst336/hw/hw2/inc/functions.php:44
+[24-Sep-2018 07:17:59 UTC] PHP   5. array_pop() /home/ubuntu/workspace/cst336/hw/hw2/inc/functions.php:64
+[24-Sep-2018 07:17:59 UTC] PHP Warning:  array_pop() expects parameter 1 to be array, integer given in /home/ubuntu/workspace/cst336/hw/hw2/inc/functions.php on line 64
+[24-Sep-2018 07:17:59 UTC] PHP Stack trace:
+[24-Sep-2018 07:17:59 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/hw/hw2/index.php:0
+[24-Sep-2018 07:17:59 UTC] PHP   2. getPokemon() /home/ubuntu/workspace/cst336/hw/hw2/index.php:19
+[24-Sep-2018 07:17:59 UTC] PHP   3. generateImage() /home/ubuntu/workspace/cst336/hw/hw2/inc/functions.php:21
+[24-Sep-2018 07:17:59 UTC] PHP   4. randFact() /home/ubuntu/workspace/cst336/hw/hw2/inc/functions.php:44
+[24-Sep-2018 07:17:59 UTC] PHP   5. array_pop() /home/ubuntu/workspace/cst336/hw/hw2/inc/functions.php:64
+[24-Sep-2018 07:18:00 UTC] PHP Warning:  array_pop() expects parameter 1 to be array, integer given in /home/ubuntu/workspace/cst336/hw/hw2/inc/functions.php on line 64
+[24-Sep-2018 07:18:00 UTC] PHP Stack trace:
+[24-Sep-2018 07:18:00 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/hw/hw2/index.php:0
+[24-Sep-2018 07:18:00 UTC] PHP   2. getPokemon() /home/ubuntu/workspace/cst336/hw/hw2/index.php:19
+[24-Sep-2018 07:18:00 UTC] PHP   3. generateImage() /home/ubuntu/workspace/cst336/hw/hw2/inc/functions.php:21
+[24-Sep-2018 07:18:00 UTC] PHP   4. randFact() /home/ubuntu/workspace/cst336/hw/hw2/inc/functions.php:44
+[24-Sep-2018 07:18:00 UTC] PHP   5. array_pop() /home/ubuntu/workspace/cst336/hw/hw2/inc/functions.php:64
+[24-Sep-2018 07:18:00 UTC] PHP Warning:  array_pop() expects parameter 1 to be array, integer given in /home/ubuntu/workspace/cst336/hw/hw2/inc/functions.php on line 64
+[24-Sep-2018 07:18:00 UTC] PHP Stack trace:
+[24-Sep-2018 07:18:00 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/hw/hw2/index.php:0
+[24-Sep-2018 07:18:00 UTC] PHP   2. getPokemon() /home/ubuntu/workspace/cst336/hw/hw2/index.php:19
+[24-Sep-2018 07:18:00 UTC] PHP   3. generateImage() /home/ubuntu/workspace/cst336/hw/hw2/inc/functions.php:21
+[24-Sep-2018 07:18:00 UTC] PHP   4. randFact() /home/ubuntu/workspace/cst336/hw/hw2/inc/functions.php:44
+[24-Sep-2018 07:18:00 UTC] PHP   5. array_pop() /home/ubuntu/workspace/cst336/hw/hw2/inc/functions.php:64
+[24-Sep-2018 07:18:00 UTC] PHP Warning:  array_pop() expects parameter 1 to be array, integer given in /home/ubuntu/workspace/cst336/hw/hw2/inc/functions.php on line 64
+[24-Sep-2018 07:18:00 UTC] PHP Stack trace:
+[24-Sep-2018 07:18:00 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/hw/hw2/index.php:0
+[24-Sep-2018 07:18:00 UTC] PHP   2. getPokemon() /home/ubuntu/workspace/cst336/hw/hw2/index.php:19
+[24-Sep-2018 07:18:00 UTC] PHP   3. generateImage() /home/ubuntu/workspace/cst336/hw/hw2/inc/functions.php:21
+[24-Sep-2018 07:18:00 UTC] PHP   4. randFact() /home/ubuntu/workspace/cst336/hw/hw2/inc/functions.php:44
+[24-Sep-2018 07:18:00 UTC] PHP   5. array_pop() /home/ubuntu/workspace/cst336/hw/hw2/inc/functions.php:64
+[24-Sep-2018 07:18:03 UTC] PHP Warning:  array_pop() expects parameter 1 to be array, integer given in /home/ubuntu/workspace/cst336/hw/hw2/inc/functions.php on line 64
+[24-Sep-2018 07:18:03 UTC] PHP Stack trace:
+[24-Sep-2018 07:18:03 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/hw/hw2/index.php:0
+[24-Sep-2018 07:18:03 UTC] PHP   2. getPokemon() /home/ubuntu/workspace/cst336/hw/hw2/index.php:19
+[24-Sep-2018 07:18:03 UTC] PHP   3. generateImage() /home/ubuntu/workspace/cst336/hw/hw2/inc/functions.php:21
+[24-Sep-2018 07:18:03 UTC] PHP   4. randFact() /home/ubuntu/workspace/cst336/hw/hw2/inc/functions.php:44
+[24-Sep-2018 07:18:03 UTC] PHP   5. array_pop() /home/ubuntu/workspace/cst336/hw/hw2/inc/functions.php:64
+[24-Sep-2018 07:18:03 UTC] PHP Warning:  array_pop() expects parameter 1 to be array, integer given in /home/ubuntu/workspace/cst336/hw/hw2/inc/functions.php on line 64
+[24-Sep-2018 07:18:03 UTC] PHP Stack trace:
+[24-Sep-2018 07:18:03 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/hw/hw2/index.php:0
+[24-Sep-2018 07:18:03 UTC] PHP   2. getPokemon() /home/ubuntu/workspace/cst336/hw/hw2/index.php:19
+[24-Sep-2018 07:18:03 UTC] PHP   3. generateImage() /home/ubuntu/workspace/cst336/hw/hw2/inc/functions.php:21
+[24-Sep-2018 07:18:03 UTC] PHP   4. randFact() /home/ubuntu/workspace/cst336/hw/hw2/inc/functions.php:44
+[24-Sep-2018 07:18:03 UTC] PHP   5. array_pop() /home/ubuntu/workspace/cst336/hw/hw2/inc/functions.php:64
+[24-Sep-2018 07:18:03 UTC] PHP Warning:  array_pop() expects parameter 1 to be array, integer given in /home/ubuntu/workspace/cst336/hw/hw2/inc/functions.php on line 64
+[24-Sep-2018 07:18:03 UTC] PHP Stack trace:
+[24-Sep-2018 07:18:03 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/hw/hw2/index.php:0
+[24-Sep-2018 07:18:03 UTC] PHP   2. getPokemon() /home/ubuntu/workspace/cst336/hw/hw2/index.php:19
+[24-Sep-2018 07:18:03 UTC] PHP   3. generateImage() /home/ubuntu/workspace/cst336/hw/hw2/inc/functions.php:21
+[24-Sep-2018 07:18:03 UTC] PHP   4. randFact() /home/ubuntu/workspace/cst336/hw/hw2/inc/functions.php:44
+[24-Sep-2018 07:18:03 UTC] PHP   5. array_pop() /home/ubuntu/workspace/cst336/hw/hw2/inc/functions.php:64
