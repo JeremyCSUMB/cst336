@@ -1,0 +1,69 @@
+header{
+    font-family: 'Diplomata SC', cursive;
+    text-align: center;
+    color: black;
+    font-size: 20px;
+    background-color: white;
+    width: 1200px;
+    border: 25px solid black;
+    margin-left: 12%;
+}
+#displayWin2
+{
+    font-family: 'Diplomata SC', cursive;
+    text-align: center;
+    color: white;
+    font-size: 20px;
+    background: black;
+    width: 75%;
+    margin-left: 13%;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+#displayWin
+{
+    font-family: 'Diplomata SC', cursive;
+    text-align: center;
+    color: black;
+    background-color: white;
+    width: 1200px;
+    border: 25px solid black;
+}
+#silverJack
+{
+    text-shadow: 2px 2px #DC0B32;
+    margin: 2%;
+}
+footer{
+    text-align: center;
+    color: white;
+    font-size: 15px;
+    font-family: 'Diplomata SC', cursive;
+}
+body {
+    background-color: black;
+    background-image:url("../imgs/c_ard.jpg");
+    color: white;
+    text-align: center;
+        
+    }
+#displayWin
+{
+    text-align: center;
+    margin-left: 12%;
+}
+#displayCard{
+    
+    text-align: center;
+
+}
+#player
+{
+     text-align: left;
+     font-family: 'Diplomata SC', cursive;
+     font-size: 15px;
+}
+
+#playerPic {
+    margin-left: 25px;
+}

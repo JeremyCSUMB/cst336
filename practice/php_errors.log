@@ -4,3 +4,340 @@
 [17-Sep-2018 19:44:05 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/practice/p2/rps.php:0
 [17-Sep-2018 19:44:05 UTC] PHP   2. generate() /home/ubuntu/workspace/cst336/practice/p2/rps.php:87
 [17-Sep-2018 19:44:05 UTC] PHP   3. array_push() /home/ubuntu/workspace/cst336/practice/p2/rps.php:30
+[24-Sep-2018 19:13:22 UTC] PHP Warning:  imagepng(): Unable to open 'inc/charts/1537816402.7104.png' for writing: No such file or directory in /home/ubuntu/workspace/cst336/practice/p3/inc/charts.php on line 71
+[24-Sep-2018 19:13:22 UTC] PHP Stack trace:
+[24-Sep-2018 19:13:22 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/practice/p3/reviews.php:0
+[24-Sep-2018 19:13:22 UTC] PHP   2. movieReviews() /home/ubuntu/workspace/cst336/practice/p3/reviews.php:60
+[24-Sep-2018 19:13:22 UTC] PHP   3. displayRatings() /home/ubuntu/workspace/cst336/practice/p3/reviews.php:25
+[24-Sep-2018 19:13:22 UTC] PHP   4. bar_graph() /home/ubuntu/workspace/cst336/practice/p3/inc/charts.php:30
+[24-Sep-2018 19:13:22 UTC] PHP   5. imagepng() /home/ubuntu/workspace/cst336/practice/p3/inc/charts.php:71
+[24-Sep-2018 19:13:31 UTC] PHP Warning:  imagepng(): Unable to open 'inc/charts/1537816411.6484.png' for writing: No such file or directory in /home/ubuntu/workspace/cst336/practice/p3/inc/charts.php on line 71
+[24-Sep-2018 19:13:31 UTC] PHP Stack trace:
+[24-Sep-2018 19:13:31 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/practice/p3/reviews.php:0
+[24-Sep-2018 19:13:31 UTC] PHP   2. movieReviews() /home/ubuntu/workspace/cst336/practice/p3/reviews.php:60
+[24-Sep-2018 19:13:31 UTC] PHP   3. displayRatings() /home/ubuntu/workspace/cst336/practice/p3/reviews.php:25
+[24-Sep-2018 19:13:31 UTC] PHP   4. bar_graph() /home/ubuntu/workspace/cst336/practice/p3/inc/charts.php:30
+[24-Sep-2018 19:13:31 UTC] PHP   5. imagepng() /home/ubuntu/workspace/cst336/practice/p3/inc/charts.php:71
+[24-Sep-2018 19:13:32 UTC] PHP Warning:  imagepng(): Unable to open 'inc/charts/1537816412.8002.png' for writing: No such file or directory in /home/ubuntu/workspace/cst336/practice/p3/inc/charts.php on line 71
+[24-Sep-2018 19:13:32 UTC] PHP Stack trace:
+[24-Sep-2018 19:13:32 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/practice/p3/reviews.php:0
+[24-Sep-2018 19:13:32 UTC] PHP   2. movieReviews() /home/ubuntu/workspace/cst336/practice/p3/reviews.php:60
+[24-Sep-2018 19:13:32 UTC] PHP   3. displayRatings() /home/ubuntu/workspace/cst336/practice/p3/reviews.php:25
+[24-Sep-2018 19:13:32 UTC] PHP   4. bar_graph() /home/ubuntu/workspace/cst336/practice/p3/inc/charts.php:30
+[24-Sep-2018 19:13:32 UTC] PHP   5. imagepng() /home/ubuntu/workspace/cst336/practice/p3/inc/charts.php:71
+[24-Sep-2018 19:13:33 UTC] PHP Warning:  imagepng(): Unable to open 'inc/charts/1537816413.7735.png' for writing: No such file or directory in /home/ubuntu/workspace/cst336/practice/p3/inc/charts.php on line 71
+[24-Sep-2018 19:13:33 UTC] PHP Stack trace:
+[24-Sep-2018 19:13:33 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/practice/p3/reviews.php:0
+[24-Sep-2018 19:13:33 UTC] PHP   2. movieReviews() /home/ubuntu/workspace/cst336/practice/p3/reviews.php:60
+[24-Sep-2018 19:13:33 UTC] PHP   3. displayRatings() /home/ubuntu/workspace/cst336/practice/p3/reviews.php:25
+[24-Sep-2018 19:13:33 UTC] PHP   4. bar_graph() /home/ubuntu/workspace/cst336/practice/p3/inc/charts.php:30
+[24-Sep-2018 19:13:33 UTC] PHP   5. imagepng() /home/ubuntu/workspace/cst336/practice/p3/inc/charts.php:71
+[24-Sep-2018 19:13:34 UTC] PHP Warning:  imagepng(): Unable to open 'inc/charts/1537816414.4886.png' for writing: No such file or directory in /home/ubuntu/workspace/cst336/practice/p3/inc/charts.php on line 71
+[24-Sep-2018 19:13:34 UTC] PHP Stack trace:
+[24-Sep-2018 19:13:34 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/practice/p3/reviews.php:0
+[24-Sep-2018 19:13:34 UTC] PHP   2. movieReviews() /home/ubuntu/workspace/cst336/practice/p3/reviews.php:60
+[24-Sep-2018 19:13:34 UTC] PHP   3. displayRatings() /home/ubuntu/workspace/cst336/practice/p3/reviews.php:25
+[24-Sep-2018 19:13:34 UTC] PHP   4. bar_graph() /home/ubuntu/workspace/cst336/practice/p3/inc/charts.php:30
+[24-Sep-2018 19:13:34 UTC] PHP   5. imagepng() /home/ubuntu/workspace/cst336/practice/p3/inc/charts.php:71
+[24-Sep-2018 19:13:35 UTC] PHP Warning:  imagepng(): Unable to open 'inc/charts/1537816415.0794.png' for writing: No such file or directory in /home/ubuntu/workspace/cst336/practice/p3/inc/charts.php on line 71
+[24-Sep-2018 19:13:35 UTC] PHP Stack trace:
+[24-Sep-2018 19:13:35 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/practice/p3/reviews.php:0
+[24-Sep-2018 19:13:35 UTC] PHP   2. movieReviews() /home/ubuntu/workspace/cst336/practice/p3/reviews.php:60
+[24-Sep-2018 19:13:35 UTC] PHP   3. displayRatings() /home/ubuntu/workspace/cst336/practice/p3/reviews.php:25
+[24-Sep-2018 19:13:35 UTC] PHP   4. bar_graph() /home/ubuntu/workspace/cst336/practice/p3/inc/charts.php:30
+[24-Sep-2018 19:13:35 UTC] PHP   5. imagepng() /home/ubuntu/workspace/cst336/practice/p3/inc/charts.php:71
+[24-Sep-2018 19:18:07 UTC] PHP Warning:  imagepng(): Unable to open 'inc/charts/1537816687.7832.png' for writing: No such file or directory in /home/ubuntu/workspace/cst336/practice/p3/inc/charts.php on line 71
+[24-Sep-2018 19:18:07 UTC] PHP Stack trace:
+[24-Sep-2018 19:18:07 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/practice/p3/reviews.php:0
+[24-Sep-2018 19:18:07 UTC] PHP   2. movieReviews() /home/ubuntu/workspace/cst336/practice/p3/reviews.php:60
+[24-Sep-2018 19:18:07 UTC] PHP   3. displayRatings() /home/ubuntu/workspace/cst336/practice/p3/reviews.php:25
+[24-Sep-2018 19:18:07 UTC] PHP   4. bar_graph() /home/ubuntu/workspace/cst336/practice/p3/inc/charts.php:30
+[24-Sep-2018 19:18:07 UTC] PHP   5. imagepng() /home/ubuntu/workspace/cst336/practice/p3/inc/charts.php:71
+[24-Sep-2018 19:19:30 UTC] PHP Warning:  imagepng(): Unable to open 'inc/charts/1537816770.8718.png' for writing: No such file or directory in /home/ubuntu/workspace/cst336/practice/p3/inc/charts.php on line 71
+[24-Sep-2018 19:19:30 UTC] PHP Stack trace:
+[24-Sep-2018 19:19:30 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/practice/p3/reviews.php:0
+[24-Sep-2018 19:19:30 UTC] PHP   2. movieReviews() /home/ubuntu/workspace/cst336/practice/p3/reviews.php:60
+[24-Sep-2018 19:19:30 UTC] PHP   3. createRandom() /home/ubuntu/workspace/cst336/practice/p3/reviews.php:15
+[24-Sep-2018 19:19:30 UTC] PHP   4. displayRatings() /home/ubuntu/workspace/cst336/practice/p3/inc/charts.php:99
+[24-Sep-2018 19:19:30 UTC] PHP   5. bar_graph() /home/ubuntu/workspace/cst336/practice/p3/inc/charts.php:30
+[24-Sep-2018 19:19:30 UTC] PHP   6. imagepng() /home/ubuntu/workspace/cst336/practice/p3/inc/charts.php:71
+[24-Sep-2018 19:19:30 UTC] PHP Warning:  imagepng(): Unable to open 'inc/charts/1537816770.8805.png' for writing: No such file or directory in /home/ubuntu/workspace/cst336/practice/p3/inc/charts.php on line 71
+[24-Sep-2018 19:19:30 UTC] PHP Stack trace:
+[24-Sep-2018 19:19:30 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/practice/p3/reviews.php:0
+[24-Sep-2018 19:19:30 UTC] PHP   2. movieReviews() /home/ubuntu/workspace/cst336/practice/p3/reviews.php:60
+[24-Sep-2018 19:19:30 UTC] PHP   3. createRandom() /home/ubuntu/workspace/cst336/practice/p3/reviews.php:15
+[24-Sep-2018 19:19:30 UTC] PHP   4. displayRatings() /home/ubuntu/workspace/cst336/practice/p3/inc/charts.php:99
+[24-Sep-2018 19:19:30 UTC] PHP   5. bar_graph() /home/ubuntu/workspace/cst336/practice/p3/inc/charts.php:30
+[24-Sep-2018 19:19:30 UTC] PHP   6. imagepng() /home/ubuntu/workspace/cst336/practice/p3/inc/charts.php:71
+[24-Sep-2018 19:19:30 UTC] PHP Warning:  imagepng(): Unable to open 'inc/charts/1537816770.881.png' for writing: No such file or directory in /home/ubuntu/workspace/cst336/practice/p3/inc/charts.php on line 71
+[24-Sep-2018 19:19:30 UTC] PHP Stack trace:
+[24-Sep-2018 19:19:30 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/practice/p3/reviews.php:0
+[24-Sep-2018 19:19:30 UTC] PHP   2. movieReviews() /home/ubuntu/workspace/cst336/practice/p3/reviews.php:60
+[24-Sep-2018 19:19:30 UTC] PHP   3. createRandom() /home/ubuntu/workspace/cst336/practice/p3/reviews.php:15
+[24-Sep-2018 19:19:30 UTC] PHP   4. displayRatings() /home/ubuntu/workspace/cst336/practice/p3/inc/charts.php:99
+[24-Sep-2018 19:19:30 UTC] PHP   5. bar_graph() /home/ubuntu/workspace/cst336/practice/p3/inc/charts.php:30
+[24-Sep-2018 19:19:30 UTC] PHP   6. imagepng() /home/ubuntu/workspace/cst336/practice/p3/inc/charts.php:71
+[24-Sep-2018 19:19:30 UTC] PHP Warning:  imagepng(): Unable to open 'inc/charts/1537816770.8815.png' for writing: No such file or directory in /home/ubuntu/workspace/cst336/practice/p3/inc/charts.php on line 71
+[24-Sep-2018 19:19:30 UTC] PHP Stack trace:
+[24-Sep-2018 19:19:30 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/practice/p3/reviews.php:0
+[24-Sep-2018 19:19:30 UTC] PHP   2. movieReviews() /home/ubuntu/workspace/cst336/practice/p3/reviews.php:60
+[24-Sep-2018 19:19:30 UTC] PHP   3. createRandom() /home/ubuntu/workspace/cst336/practice/p3/reviews.php:15
+[24-Sep-2018 19:19:30 UTC] PHP   4. displayRatings() /home/ubuntu/workspace/cst336/practice/p3/inc/charts.php:99
+[24-Sep-2018 19:19:30 UTC] PHP   5. bar_graph() /home/ubuntu/workspace/cst336/practice/p3/inc/charts.php:30
+[24-Sep-2018 19:19:30 UTC] PHP   6. imagepng() /home/ubuntu/workspace/cst336/practice/p3/inc/charts.php:71
+[24-Sep-2018 19:20:48 UTC] PHP Warning:  imagepng(): Unable to open 'inc/charts/1537816848.7311.png' for writing: No such file or directory in /home/ubuntu/workspace/cst336/practice/p3/inc/charts.php on line 71
+[24-Sep-2018 19:20:48 UTC] PHP Stack trace:
+[24-Sep-2018 19:20:48 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/practice/p3/reviews.php:0
+[24-Sep-2018 19:20:48 UTC] PHP   2. movieReviews() /home/ubuntu/workspace/cst336/practice/p3/reviews.php:60
+[24-Sep-2018 19:20:48 UTC] PHP   3. createRandom() /home/ubuntu/workspace/cst336/practice/p3/reviews.php:15
+[24-Sep-2018 19:20:48 UTC] PHP   4. displayRatings() /home/ubuntu/workspace/cst336/practice/p3/inc/charts.php:99
+[24-Sep-2018 19:20:48 UTC] PHP   5. bar_graph() /home/ubuntu/workspace/cst336/practice/p3/inc/charts.php:30
+[24-Sep-2018 19:20:48 UTC] PHP   6. imagepng() /home/ubuntu/workspace/cst336/practice/p3/inc/charts.php:71
+[24-Sep-2018 19:20:48 UTC] PHP Warning:  imagepng(): Unable to open 'inc/charts/1537816848.7412.png' for writing: No such file or directory in /home/ubuntu/workspace/cst336/practice/p3/inc/charts.php on line 71
+[24-Sep-2018 19:20:48 UTC] PHP Stack trace:
+[24-Sep-2018 19:20:48 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/practice/p3/reviews.php:0
+[24-Sep-2018 19:20:48 UTC] PHP   2. movieReviews() /home/ubuntu/workspace/cst336/practice/p3/reviews.php:60
+[24-Sep-2018 19:20:48 UTC] PHP   3. createRandom() /home/ubuntu/workspace/cst336/practice/p3/reviews.php:15
+[24-Sep-2018 19:20:48 UTC] PHP   4. displayRatings() /home/ubuntu/workspace/cst336/practice/p3/inc/charts.php:99
+[24-Sep-2018 19:20:48 UTC] PHP   5. bar_graph() /home/ubuntu/workspace/cst336/practice/p3/inc/charts.php:30
+[24-Sep-2018 19:20:48 UTC] PHP   6. imagepng() /home/ubuntu/workspace/cst336/practice/p3/inc/charts.php:71
+[24-Sep-2018 19:20:48 UTC] PHP Warning:  imagepng(): Unable to open 'inc/charts/1537816848.7417.png' for writing: No such file or directory in /home/ubuntu/workspace/cst336/practice/p3/inc/charts.php on line 71
+[24-Sep-2018 19:20:48 UTC] PHP Stack trace:
+[24-Sep-2018 19:20:48 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/practice/p3/reviews.php:0
+[24-Sep-2018 19:20:48 UTC] PHP   2. movieReviews() /home/ubuntu/workspace/cst336/practice/p3/reviews.php:60
+[24-Sep-2018 19:20:48 UTC] PHP   3. createRandom() /home/ubuntu/workspace/cst336/practice/p3/reviews.php:15
+[24-Sep-2018 19:20:48 UTC] PHP   4. displayRatings() /home/ubuntu/workspace/cst336/practice/p3/inc/charts.php:99
+[24-Sep-2018 19:20:48 UTC] PHP   5. bar_graph() /home/ubuntu/workspace/cst336/practice/p3/inc/charts.php:30
+[24-Sep-2018 19:20:48 UTC] PHP   6. imagepng() /home/ubuntu/workspace/cst336/practice/p3/inc/charts.php:71
+[24-Sep-2018 19:20:48 UTC] PHP Warning:  imagepng(): Unable to open 'inc/charts/1537816848.7421.png' for writing: No such file or directory in /home/ubuntu/workspace/cst336/practice/p3/inc/charts.php on line 71
+[24-Sep-2018 19:20:48 UTC] PHP Stack trace:
+[24-Sep-2018 19:20:48 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/practice/p3/reviews.php:0
+[24-Sep-2018 19:20:48 UTC] PHP   2. movieReviews() /home/ubuntu/workspace/cst336/practice/p3/reviews.php:60
+[24-Sep-2018 19:20:48 UTC] PHP   3. createRandom() /home/ubuntu/workspace/cst336/practice/p3/reviews.php:15
+[24-Sep-2018 19:20:48 UTC] PHP   4. displayRatings() /home/ubuntu/workspace/cst336/practice/p3/inc/charts.php:99
+[24-Sep-2018 19:20:48 UTC] PHP   5. bar_graph() /home/ubuntu/workspace/cst336/practice/p3/inc/charts.php:30
+[24-Sep-2018 19:20:48 UTC] PHP   6. imagepng() /home/ubuntu/workspace/cst336/practice/p3/inc/charts.php:71
+[24-Sep-2018 19:21:08 UTC] PHP Warning:  imagepng(): Unable to open 'inc/charts/1537816868.6579.png' for writing: No such file or directory in /home/ubuntu/workspace/cst336/practice/p3/inc/charts.php on line 71
+[24-Sep-2018 19:21:08 UTC] PHP Stack trace:
+[24-Sep-2018 19:21:08 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/practice/p3/reviews.php:0
+[24-Sep-2018 19:21:08 UTC] PHP   2. movieReviews() /home/ubuntu/workspace/cst336/practice/p3/reviews.php:60
+[24-Sep-2018 19:21:08 UTC] PHP   3. createRandom() /home/ubuntu/workspace/cst336/practice/p3/reviews.php:15
+[24-Sep-2018 19:21:08 UTC] PHP   4. displayRatings() /home/ubuntu/workspace/cst336/practice/p3/inc/charts.php:99
+[24-Sep-2018 19:21:08 UTC] PHP   5. bar_graph() /home/ubuntu/workspace/cst336/practice/p3/inc/charts.php:30
+[24-Sep-2018 19:21:08 UTC] PHP   6. imagepng() /home/ubuntu/workspace/cst336/practice/p3/inc/charts.php:71
+[24-Sep-2018 19:21:08 UTC] PHP Warning:  imagepng(): Unable to open 'inc/charts/1537816868.6669.png' for writing: No such file or directory in /home/ubuntu/workspace/cst336/practice/p3/inc/charts.php on line 71
+[24-Sep-2018 19:21:08 UTC] PHP Stack trace:
+[24-Sep-2018 19:21:08 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/practice/p3/reviews.php:0
+[24-Sep-2018 19:21:08 UTC] PHP   2. movieReviews() /home/ubuntu/workspace/cst336/practice/p3/reviews.php:60
+[24-Sep-2018 19:21:08 UTC] PHP   3. createRandom() /home/ubuntu/workspace/cst336/practice/p3/reviews.php:15
+[24-Sep-2018 19:21:08 UTC] PHP   4. displayRatings() /home/ubuntu/workspace/cst336/practice/p3/inc/charts.php:99
+[24-Sep-2018 19:21:08 UTC] PHP   5. bar_graph() /home/ubuntu/workspace/cst336/practice/p3/inc/charts.php:30
+[24-Sep-2018 19:21:08 UTC] PHP   6. imagepng() /home/ubuntu/workspace/cst336/practice/p3/inc/charts.php:71
+[24-Sep-2018 19:21:08 UTC] PHP Warning:  imagepng(): Unable to open 'inc/charts/1537816868.6674.png' for writing: No such file or directory in /home/ubuntu/workspace/cst336/practice/p3/inc/charts.php on line 71
+[24-Sep-2018 19:21:08 UTC] PHP Stack trace:
+[24-Sep-2018 19:21:08 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/practice/p3/reviews.php:0
+[24-Sep-2018 19:21:08 UTC] PHP   2. movieReviews() /home/ubuntu/workspace/cst336/practice/p3/reviews.php:60
+[24-Sep-2018 19:21:08 UTC] PHP   3. createRandom() /home/ubuntu/workspace/cst336/practice/p3/reviews.php:15
+[24-Sep-2018 19:21:08 UTC] PHP   4. displayRatings() /home/ubuntu/workspace/cst336/practice/p3/inc/charts.php:99
+[24-Sep-2018 19:21:08 UTC] PHP   5. bar_graph() /home/ubuntu/workspace/cst336/practice/p3/inc/charts.php:30
+[24-Sep-2018 19:21:08 UTC] PHP   6. imagepng() /home/ubuntu/workspace/cst336/practice/p3/inc/charts.php:71
+[24-Sep-2018 19:21:08 UTC] PHP Warning:  imagepng(): Unable to open 'inc/charts/1537816868.6678.png' for writing: No such file or directory in /home/ubuntu/workspace/cst336/practice/p3/inc/charts.php on line 71
+[24-Sep-2018 19:21:08 UTC] PHP Stack trace:
+[24-Sep-2018 19:21:08 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/practice/p3/reviews.php:0
+[24-Sep-2018 19:21:08 UTC] PHP   2. movieReviews() /home/ubuntu/workspace/cst336/practice/p3/reviews.php:60
+[24-Sep-2018 19:21:08 UTC] PHP   3. createRandom() /home/ubuntu/workspace/cst336/practice/p3/reviews.php:15
+[24-Sep-2018 19:21:08 UTC] PHP   4. displayRatings() /home/ubuntu/workspace/cst336/practice/p3/inc/charts.php:99
+[24-Sep-2018 19:21:08 UTC] PHP   5. bar_graph() /home/ubuntu/workspace/cst336/practice/p3/inc/charts.php:30
+[24-Sep-2018 19:21:08 UTC] PHP   6. imagepng() /home/ubuntu/workspace/cst336/practice/p3/inc/charts.php:71
+[24-Sep-2018 19:22:11 UTC] PHP Warning:  imagepng(): Unable to open 'inc/charts/1537816931.5038.png' for writing: No such file or directory in /home/ubuntu/workspace/cst336/practice/p3/inc/charts.php on line 71
+[24-Sep-2018 19:22:11 UTC] PHP Stack trace:
+[24-Sep-2018 19:22:11 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/practice/p3/reviews.php:0
+[24-Sep-2018 19:22:11 UTC] PHP   2. movieReviews() /home/ubuntu/workspace/cst336/practice/p3/reviews.php:60
+[24-Sep-2018 19:22:11 UTC] PHP   3. createRandom() /home/ubuntu/workspace/cst336/practice/p3/reviews.php:15
+[24-Sep-2018 19:22:11 UTC] PHP   4. displayRatings() /home/ubuntu/workspace/cst336/practice/p3/inc/charts.php:99
+[24-Sep-2018 19:22:11 UTC] PHP   5. bar_graph() /home/ubuntu/workspace/cst336/practice/p3/inc/charts.php:30
+[24-Sep-2018 19:22:11 UTC] PHP   6. imagepng() /home/ubuntu/workspace/cst336/practice/p3/inc/charts.php:71
+[24-Sep-2018 19:22:11 UTC] PHP Warning:  imagepng(): Unable to open 'inc/charts/1537816931.5044.png' for writing: No such file or directory in /home/ubuntu/workspace/cst336/practice/p3/inc/charts.php on line 71
+[24-Sep-2018 19:22:11 UTC] PHP Stack trace:
+[24-Sep-2018 19:22:11 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/practice/p3/reviews.php:0
+[24-Sep-2018 19:22:11 UTC] PHP   2. movieReviews() /home/ubuntu/workspace/cst336/practice/p3/reviews.php:60
+[24-Sep-2018 19:22:11 UTC] PHP   3. createRandom() /home/ubuntu/workspace/cst336/practice/p3/reviews.php:15
+[24-Sep-2018 19:22:11 UTC] PHP   4. displayRatings() /home/ubuntu/workspace/cst336/practice/p3/inc/charts.php:99
+[24-Sep-2018 19:22:11 UTC] PHP   5. bar_graph() /home/ubuntu/workspace/cst336/practice/p3/inc/charts.php:30
+[24-Sep-2018 19:22:11 UTC] PHP   6. imagepng() /home/ubuntu/workspace/cst336/practice/p3/inc/charts.php:71
+[24-Sep-2018 19:22:11 UTC] PHP Warning:  imagepng(): Unable to open 'inc/charts/1537816931.5048.png' for writing: No such file or directory in /home/ubuntu/workspace/cst336/practice/p3/inc/charts.php on line 71
+[24-Sep-2018 19:22:11 UTC] PHP Stack trace:
+[24-Sep-2018 19:22:11 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/practice/p3/reviews.php:0
+[24-Sep-2018 19:22:11 UTC] PHP   2. movieReviews() /home/ubuntu/workspace/cst336/practice/p3/reviews.php:60
+[24-Sep-2018 19:22:11 UTC] PHP   3. createRandom() /home/ubuntu/workspace/cst336/practice/p3/reviews.php:15
+[24-Sep-2018 19:22:11 UTC] PHP   4. displayRatings() /home/ubuntu/workspace/cst336/practice/p3/inc/charts.php:99
+[24-Sep-2018 19:22:11 UTC] PHP   5. bar_graph() /home/ubuntu/workspace/cst336/practice/p3/inc/charts.php:30
+[24-Sep-2018 19:22:11 UTC] PHP   6. imagepng() /home/ubuntu/workspace/cst336/practice/p3/inc/charts.php:71
+[24-Sep-2018 19:22:11 UTC] PHP Warning:  imagepng(): Unable to open 'inc/charts/1537816931.5052.png' for writing: No such file or directory in /home/ubuntu/workspace/cst336/practice/p3/inc/charts.php on line 71
+[24-Sep-2018 19:22:11 UTC] PHP Stack trace:
+[24-Sep-2018 19:22:11 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/practice/p3/reviews.php:0
+[24-Sep-2018 19:22:11 UTC] PHP   2. movieReviews() /home/ubuntu/workspace/cst336/practice/p3/reviews.php:60
+[24-Sep-2018 19:22:11 UTC] PHP   3. createRandom() /home/ubuntu/workspace/cst336/practice/p3/reviews.php:15
+[24-Sep-2018 19:22:11 UTC] PHP   4. displayRatings() /home/ubuntu/workspace/cst336/practice/p3/inc/charts.php:99
+[24-Sep-2018 19:22:11 UTC] PHP   5. bar_graph() /home/ubuntu/workspace/cst336/practice/p3/inc/charts.php:30
+[24-Sep-2018 19:22:11 UTC] PHP   6. imagepng() /home/ubuntu/workspace/cst336/practice/p3/inc/charts.php:71
+[24-Sep-2018 19:22:17 UTC] PHP Warning:  imagepng(): Unable to open 'inc/charts/1537816937.2736.png' for writing: No such file or directory in /home/ubuntu/workspace/cst336/practice/p3/inc/charts.php on line 71
+[24-Sep-2018 19:22:17 UTC] PHP Stack trace:
+[24-Sep-2018 19:22:17 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/practice/p3/reviews.php:0
+[24-Sep-2018 19:22:17 UTC] PHP   2. movieReviews() /home/ubuntu/workspace/cst336/practice/p3/reviews.php:60
+[24-Sep-2018 19:22:17 UTC] PHP   3. createRandom() /home/ubuntu/workspace/cst336/practice/p3/reviews.php:15
+[24-Sep-2018 19:22:17 UTC] PHP   4. displayRatings() /home/ubuntu/workspace/cst336/practice/p3/inc/charts.php:99
+[24-Sep-2018 19:22:17 UTC] PHP   5. bar_graph() /home/ubuntu/workspace/cst336/practice/p3/inc/charts.php:30
+[24-Sep-2018 19:22:17 UTC] PHP   6. imagepng() /home/ubuntu/workspace/cst336/practice/p3/inc/charts.php:71
+[24-Sep-2018 19:22:17 UTC] PHP Warning:  imagepng(): Unable to open 'inc/charts/1537816937.2861.png' for writing: No such file or directory in /home/ubuntu/workspace/cst336/practice/p3/inc/charts.php on line 71
+[24-Sep-2018 19:22:17 UTC] PHP Stack trace:
+[24-Sep-2018 19:22:17 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/practice/p3/reviews.php:0
+[24-Sep-2018 19:22:17 UTC] PHP   2. movieReviews() /home/ubuntu/workspace/cst336/practice/p3/reviews.php:60
+[24-Sep-2018 19:22:17 UTC] PHP   3. createRandom() /home/ubuntu/workspace/cst336/practice/p3/reviews.php:15
+[24-Sep-2018 19:22:17 UTC] PHP   4. displayRatings() /home/ubuntu/workspace/cst336/practice/p3/inc/charts.php:99
+[24-Sep-2018 19:22:17 UTC] PHP   5. bar_graph() /home/ubuntu/workspace/cst336/practice/p3/inc/charts.php:30
+[24-Sep-2018 19:22:17 UTC] PHP   6. imagepng() /home/ubuntu/workspace/cst336/practice/p3/inc/charts.php:71
+[24-Sep-2018 19:22:17 UTC] PHP Warning:  imagepng(): Unable to open 'inc/charts/1537816937.2866.png' for writing: No such file or directory in /home/ubuntu/workspace/cst336/practice/p3/inc/charts.php on line 71
+[24-Sep-2018 19:22:17 UTC] PHP Stack trace:
+[24-Sep-2018 19:22:17 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/practice/p3/reviews.php:0
+[24-Sep-2018 19:22:17 UTC] PHP   2. movieReviews() /home/ubuntu/workspace/cst336/practice/p3/reviews.php:60
+[24-Sep-2018 19:22:17 UTC] PHP   3. createRandom() /home/ubuntu/workspace/cst336/practice/p3/reviews.php:15
+[24-Sep-2018 19:22:17 UTC] PHP   4. displayRatings() /home/ubuntu/workspace/cst336/practice/p3/inc/charts.php:99
+[24-Sep-2018 19:22:17 UTC] PHP   5. bar_graph() /home/ubuntu/workspace/cst336/practice/p3/inc/charts.php:30
+[24-Sep-2018 19:22:17 UTC] PHP   6. imagepng() /home/ubuntu/workspace/cst336/practice/p3/inc/charts.php:71
+[24-Sep-2018 19:22:17 UTC] PHP Warning:  imagepng(): Unable to open 'inc/charts/1537816937.2872.png' for writing: No such file or directory in /home/ubuntu/workspace/cst336/practice/p3/inc/charts.php on line 71
+[24-Sep-2018 19:22:17 UTC] PHP Stack trace:
+[24-Sep-2018 19:22:17 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/practice/p3/reviews.php:0
+[24-Sep-2018 19:22:17 UTC] PHP   2. movieReviews() /home/ubuntu/workspace/cst336/practice/p3/reviews.php:60
+[24-Sep-2018 19:22:17 UTC] PHP   3. createRandom() /home/ubuntu/workspace/cst336/practice/p3/reviews.php:15
+[24-Sep-2018 19:22:17 UTC] PHP   4. displayRatings() /home/ubuntu/workspace/cst336/practice/p3/inc/charts.php:99
+[24-Sep-2018 19:22:17 UTC] PHP   5. bar_graph() /home/ubuntu/workspace/cst336/practice/p3/inc/charts.php:30
+[24-Sep-2018 19:22:17 UTC] PHP   6. imagepng() /home/ubuntu/workspace/cst336/practice/p3/inc/charts.php:71
+[24-Sep-2018 19:22:22 UTC] PHP Warning:  imagepng(): Unable to open 'inc/charts/1537816942.4164.png' for writing: No such file or directory in /home/ubuntu/workspace/cst336/practice/p3/inc/charts.php on line 71
+[24-Sep-2018 19:22:22 UTC] PHP Stack trace:
+[24-Sep-2018 19:22:22 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/practice/p3/reviews.php:0
+[24-Sep-2018 19:22:22 UTC] PHP   2. movieReviews() /home/ubuntu/workspace/cst336/practice/p3/reviews.php:60
+[24-Sep-2018 19:22:22 UTC] PHP   3. createRandom() /home/ubuntu/workspace/cst336/practice/p3/reviews.php:15
+[24-Sep-2018 19:22:22 UTC] PHP   4. displayRatings() /home/ubuntu/workspace/cst336/practice/p3/inc/charts.php:99
+[24-Sep-2018 19:22:22 UTC] PHP   5. bar_graph() /home/ubuntu/workspace/cst336/practice/p3/inc/charts.php:30
+[24-Sep-2018 19:22:22 UTC] PHP   6. imagepng() /home/ubuntu/workspace/cst336/practice/p3/inc/charts.php:71
+[24-Sep-2018 19:22:22 UTC] PHP Warning:  imagepng(): Unable to open 'inc/charts/1537816942.417.png' for writing: No such file or directory in /home/ubuntu/workspace/cst336/practice/p3/inc/charts.php on line 71
+[24-Sep-2018 19:22:22 UTC] PHP Stack trace:
+[24-Sep-2018 19:22:22 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/practice/p3/reviews.php:0
+[24-Sep-2018 19:22:22 UTC] PHP   2. movieReviews() /home/ubuntu/workspace/cst336/practice/p3/reviews.php:60
+[24-Sep-2018 19:22:22 UTC] PHP   3. createRandom() /home/ubuntu/workspace/cst336/practice/p3/reviews.php:15
+[24-Sep-2018 19:22:22 UTC] PHP   4. displayRatings() /home/ubuntu/workspace/cst336/practice/p3/inc/charts.php:99
+[24-Sep-2018 19:22:22 UTC] PHP   5. bar_graph() /home/ubuntu/workspace/cst336/practice/p3/inc/charts.php:30
+[24-Sep-2018 19:22:22 UTC] PHP   6. imagepng() /home/ubuntu/workspace/cst336/practice/p3/inc/charts.php:71
+[24-Sep-2018 19:22:22 UTC] PHP Warning:  imagepng(): Unable to open 'inc/charts/1537816942.4175.png' for writing: No such file or directory in /home/ubuntu/workspace/cst336/practice/p3/inc/charts.php on line 71
+[24-Sep-2018 19:22:22 UTC] PHP Stack trace:
+[24-Sep-2018 19:22:22 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/practice/p3/reviews.php:0
+[24-Sep-2018 19:22:22 UTC] PHP   2. movieReviews() /home/ubuntu/workspace/cst336/practice/p3/reviews.php:60
+[24-Sep-2018 19:22:22 UTC] PHP   3. createRandom() /home/ubuntu/workspace/cst336/practice/p3/reviews.php:15
+[24-Sep-2018 19:22:22 UTC] PHP   4. displayRatings() /home/ubuntu/workspace/cst336/practice/p3/inc/charts.php:99
+[24-Sep-2018 19:22:22 UTC] PHP   5. bar_graph() /home/ubuntu/workspace/cst336/practice/p3/inc/charts.php:30
+[24-Sep-2018 19:22:22 UTC] PHP   6. imagepng() /home/ubuntu/workspace/cst336/practice/p3/inc/charts.php:71
+[24-Sep-2018 19:22:22 UTC] PHP Warning:  imagepng(): Unable to open 'inc/charts/1537816942.418.png' for writing: No such file or directory in /home/ubuntu/workspace/cst336/practice/p3/inc/charts.php on line 71
+[24-Sep-2018 19:22:22 UTC] PHP Stack trace:
+[24-Sep-2018 19:22:22 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/practice/p3/reviews.php:0
+[24-Sep-2018 19:22:22 UTC] PHP   2. movieReviews() /home/ubuntu/workspace/cst336/practice/p3/reviews.php:60
+[24-Sep-2018 19:22:22 UTC] PHP   3. createRandom() /home/ubuntu/workspace/cst336/practice/p3/reviews.php:15
+[24-Sep-2018 19:22:22 UTC] PHP   4. displayRatings() /home/ubuntu/workspace/cst336/practice/p3/inc/charts.php:99
+[24-Sep-2018 19:22:22 UTC] PHP   5. bar_graph() /home/ubuntu/workspace/cst336/practice/p3/inc/charts.php:30
+[24-Sep-2018 19:22:22 UTC] PHP   6. imagepng() /home/ubuntu/workspace/cst336/practice/p3/inc/charts.php:71
+[24-Sep-2018 19:22:23 UTC] PHP Warning:  imagepng(): Unable to open 'inc/charts/1537816943.3995.png' for writing: No such file or directory in /home/ubuntu/workspace/cst336/practice/p3/inc/charts.php on line 71
+[24-Sep-2018 19:22:23 UTC] PHP Stack trace:
+[24-Sep-2018 19:22:23 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/practice/p3/reviews.php:0
+[24-Sep-2018 19:22:23 UTC] PHP   2. movieReviews() /home/ubuntu/workspace/cst336/practice/p3/reviews.php:60
+[24-Sep-2018 19:22:23 UTC] PHP   3. createRandom() /home/ubuntu/workspace/cst336/practice/p3/reviews.php:15
+[24-Sep-2018 19:22:23 UTC] PHP   4. displayRatings() /home/ubuntu/workspace/cst336/practice/p3/inc/charts.php:99
+[24-Sep-2018 19:22:23 UTC] PHP   5. bar_graph() /home/ubuntu/workspace/cst336/practice/p3/inc/charts.php:30
+[24-Sep-2018 19:22:23 UTC] PHP   6. imagepng() /home/ubuntu/workspace/cst336/practice/p3/inc/charts.php:71
+[24-Sep-2018 19:22:23 UTC] PHP Warning:  imagepng(): Unable to open 'inc/charts/1537816943.4084.png' for writing: No such file or directory in /home/ubuntu/workspace/cst336/practice/p3/inc/charts.php on line 71
+[24-Sep-2018 19:22:23 UTC] PHP Stack trace:
+[24-Sep-2018 19:22:23 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/practice/p3/reviews.php:0
+[24-Sep-2018 19:22:23 UTC] PHP   2. movieReviews() /home/ubuntu/workspace/cst336/practice/p3/reviews.php:60
+[24-Sep-2018 19:22:23 UTC] PHP   3. createRandom() /home/ubuntu/workspace/cst336/practice/p3/reviews.php:15
+[24-Sep-2018 19:22:23 UTC] PHP   4. displayRatings() /home/ubuntu/workspace/cst336/practice/p3/inc/charts.php:99
+[24-Sep-2018 19:22:23 UTC] PHP   5. bar_graph() /home/ubuntu/workspace/cst336/practice/p3/inc/charts.php:30
+[24-Sep-2018 19:22:23 UTC] PHP   6. imagepng() /home/ubuntu/workspace/cst336/practice/p3/inc/charts.php:71
+[24-Sep-2018 19:22:23 UTC] PHP Warning:  imagepng(): Unable to open 'inc/charts/1537816943.4088.png' for writing: No such file or directory in /home/ubuntu/workspace/cst336/practice/p3/inc/charts.php on line 71
+[24-Sep-2018 19:22:23 UTC] PHP Stack trace:
+[24-Sep-2018 19:22:23 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/practice/p3/reviews.php:0
+[24-Sep-2018 19:22:23 UTC] PHP   2. movieReviews() /home/ubuntu/workspace/cst336/practice/p3/reviews.php:60
+[24-Sep-2018 19:22:23 UTC] PHP   3. createRandom() /home/ubuntu/workspace/cst336/practice/p3/reviews.php:15
+[24-Sep-2018 19:22:23 UTC] PHP   4. displayRatings() /home/ubuntu/workspace/cst336/practice/p3/inc/charts.php:99
+[24-Sep-2018 19:22:23 UTC] PHP   5. bar_graph() /home/ubuntu/workspace/cst336/practice/p3/inc/charts.php:30
+[24-Sep-2018 19:22:23 UTC] PHP   6. imagepng() /home/ubuntu/workspace/cst336/practice/p3/inc/charts.php:71
+[24-Sep-2018 19:22:23 UTC] PHP Warning:  imagepng(): Unable to open 'inc/charts/1537816943.4092.png' for writing: No such file or directory in /home/ubuntu/workspace/cst336/practice/p3/inc/charts.php on line 71
+[24-Sep-2018 19:22:23 UTC] PHP Stack trace:
+[24-Sep-2018 19:22:23 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/practice/p3/reviews.php:0
+[24-Sep-2018 19:22:23 UTC] PHP   2. movieReviews() /home/ubuntu/workspace/cst336/practice/p3/reviews.php:60
+[24-Sep-2018 19:22:23 UTC] PHP   3. createRandom() /home/ubuntu/workspace/cst336/practice/p3/reviews.php:15
+[24-Sep-2018 19:22:23 UTC] PHP   4. displayRatings() /home/ubuntu/workspace/cst336/practice/p3/inc/charts.php:99
+[24-Sep-2018 19:22:23 UTC] PHP   5. bar_graph() /home/ubuntu/workspace/cst336/practice/p3/inc/charts.php:30
+[24-Sep-2018 19:22:23 UTC] PHP   6. imagepng() /home/ubuntu/workspace/cst336/practice/p3/inc/charts.php:71
+[24-Sep-2018 19:22:24 UTC] PHP Warning:  imagepng(): Unable to open 'inc/charts/1537816944.6052.png' for writing: No such file or directory in /home/ubuntu/workspace/cst336/practice/p3/inc/charts.php on line 71
+[24-Sep-2018 19:22:24 UTC] PHP Stack trace:
+[24-Sep-2018 19:22:24 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/practice/p3/reviews.php:0
+[24-Sep-2018 19:22:24 UTC] PHP   2. movieReviews() /home/ubuntu/workspace/cst336/practice/p3/reviews.php:60
+[24-Sep-2018 19:22:24 UTC] PHP   3. createRandom() /home/ubuntu/workspace/cst336/practice/p3/reviews.php:15
+[24-Sep-2018 19:22:24 UTC] PHP   4. displayRatings() /home/ubuntu/workspace/cst336/practice/p3/inc/charts.php:99
+[24-Sep-2018 19:22:24 UTC] PHP   5. bar_graph() /home/ubuntu/workspace/cst336/practice/p3/inc/charts.php:30
+[24-Sep-2018 19:22:24 UTC] PHP   6. imagepng() /home/ubuntu/workspace/cst336/practice/p3/inc/charts.php:71
+[24-Sep-2018 19:22:24 UTC] PHP Warning:  imagepng(): Unable to open 'inc/charts/1537816944.6061.png' for writing: No such file or directory in /home/ubuntu/workspace/cst336/practice/p3/inc/charts.php on line 71
+[24-Sep-2018 19:22:24 UTC] PHP Stack trace:
+[24-Sep-2018 19:22:24 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/practice/p3/reviews.php:0
+[24-Sep-2018 19:22:24 UTC] PHP   2. movieReviews() /home/ubuntu/workspace/cst336/practice/p3/reviews.php:60
+[24-Sep-2018 19:22:24 UTC] PHP   3. createRandom() /home/ubuntu/workspace/cst336/practice/p3/reviews.php:15
+[24-Sep-2018 19:22:24 UTC] PHP   4. displayRatings() /home/ubuntu/workspace/cst336/practice/p3/inc/charts.php:99
+[24-Sep-2018 19:22:24 UTC] PHP   5. bar_graph() /home/ubuntu/workspace/cst336/practice/p3/inc/charts.php:30
+[24-Sep-2018 19:22:24 UTC] PHP   6. imagepng() /home/ubuntu/workspace/cst336/practice/p3/inc/charts.php:71
+[24-Sep-2018 19:22:24 UTC] PHP Warning:  imagepng(): Unable to open 'inc/charts/1537816944.6067.png' for writing: No such file or directory in /home/ubuntu/workspace/cst336/practice/p3/inc/charts.php on line 71
+[24-Sep-2018 19:22:24 UTC] PHP Stack trace:
+[24-Sep-2018 19:22:24 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/practice/p3/reviews.php:0
+[24-Sep-2018 19:22:24 UTC] PHP   2. movieReviews() /home/ubuntu/workspace/cst336/practice/p3/reviews.php:60
+[24-Sep-2018 19:22:24 UTC] PHP   3. createRandom() /home/ubuntu/workspace/cst336/practice/p3/reviews.php:15
+[24-Sep-2018 19:22:24 UTC] PHP   4. displayRatings() /home/ubuntu/workspace/cst336/practice/p3/inc/charts.php:99
+[24-Sep-2018 19:22:24 UTC] PHP   5. bar_graph() /home/ubuntu/workspace/cst336/practice/p3/inc/charts.php:30
+[24-Sep-2018 19:22:24 UTC] PHP   6. imagepng() /home/ubuntu/workspace/cst336/practice/p3/inc/charts.php:71
+[24-Sep-2018 19:22:24 UTC] PHP Warning:  imagepng(): Unable to open 'inc/charts/1537816944.6073.png' for writing: No such file or directory in /home/ubuntu/workspace/cst336/practice/p3/inc/charts.php on line 71
+[24-Sep-2018 19:22:24 UTC] PHP Stack trace:
+[24-Sep-2018 19:22:24 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/practice/p3/reviews.php:0
+[24-Sep-2018 19:22:24 UTC] PHP   2. movieReviews() /home/ubuntu/workspace/cst336/practice/p3/reviews.php:60
+[24-Sep-2018 19:22:24 UTC] PHP   3. createRandom() /home/ubuntu/workspace/cst336/practice/p3/reviews.php:15
+[24-Sep-2018 19:22:24 UTC] PHP   4. displayRatings() /home/ubuntu/workspace/cst336/practice/p3/inc/charts.php:99
+[24-Sep-2018 19:22:24 UTC] PHP   5. bar_graph() /home/ubuntu/workspace/cst336/practice/p3/inc/charts.php:30
+[24-Sep-2018 19:22:24 UTC] PHP   6. imagepng() /home/ubuntu/workspace/cst336/practice/p3/inc/charts.php:71
+[24-Sep-2018 20:10:04 UTC] PHP Warning:  imagepng(): Unable to open 'inc/charts/1537819804.5706.png' for writing: No such file or directory in /home/ubuntu/workspace/cst336/practice/p3/inc/charts.php on line 71
+[24-Sep-2018 20:10:04 UTC] PHP Stack trace:
+[24-Sep-2018 20:10:04 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/practice/p3/reviews.php:0
+[24-Sep-2018 20:10:04 UTC] PHP   2. movieReviews() /home/ubuntu/workspace/cst336/practice/p3/reviews.php:60
+[24-Sep-2018 20:10:04 UTC] PHP   3. createRandom() /home/ubuntu/workspace/cst336/practice/p3/reviews.php:15
+[24-Sep-2018 20:10:04 UTC] PHP   4. displayRatings() /home/ubuntu/workspace/cst336/practice/p3/inc/charts.php:99
+[24-Sep-2018 20:10:04 UTC] PHP   5. bar_graph() /home/ubuntu/workspace/cst336/practice/p3/inc/charts.php:30
+[24-Sep-2018 20:10:04 UTC] PHP   6. imagepng() /home/ubuntu/workspace/cst336/practice/p3/inc/charts.php:71
+[24-Sep-2018 20:10:04 UTC] PHP Warning:  imagepng(): Unable to open 'inc/charts/1537819804.5719.png' for writing: No such file or directory in /home/ubuntu/workspace/cst336/practice/p3/inc/charts.php on line 71
+[24-Sep-2018 20:10:04 UTC] PHP Stack trace:
+[24-Sep-2018 20:10:04 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/practice/p3/reviews.php:0
+[24-Sep-2018 20:10:04 UTC] PHP   2. movieReviews() /home/ubuntu/workspace/cst336/practice/p3/reviews.php:60
+[24-Sep-2018 20:10:04 UTC] PHP   3. createRandom() /home/ubuntu/workspace/cst336/practice/p3/reviews.php:15
+[24-Sep-2018 20:10:04 UTC] PHP   4. displayRatings() /home/ubuntu/workspace/cst336/practice/p3/inc/charts.php:99
+[24-Sep-2018 20:10:04 UTC] PHP   5. bar_graph() /home/ubuntu/workspace/cst336/practice/p3/inc/charts.php:30
+[24-Sep-2018 20:10:04 UTC] PHP   6. imagepng() /home/ubuntu/workspace/cst336/practice/p3/inc/charts.php:71
+[24-Sep-2018 20:10:04 UTC] PHP Warning:  imagepng(): Unable to open 'inc/charts/1537819804.5724.png' for writing: No such file or directory in /home/ubuntu/workspace/cst336/practice/p3/inc/charts.php on line 71
+[24-Sep-2018 20:10:04 UTC] PHP Stack trace:
+[24-Sep-2018 20:10:04 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/practice/p3/reviews.php:0
+[24-Sep-2018 20:10:04 UTC] PHP   2. movieReviews() /home/ubuntu/workspace/cst336/practice/p3/reviews.php:60
+[24-Sep-2018 20:10:04 UTC] PHP   3. createRandom() /home/ubuntu/workspace/cst336/practice/p3/reviews.php:15
+[24-Sep-2018 20:10:04 UTC] PHP   4. displayRatings() /home/ubuntu/workspace/cst336/practice/p3/inc/charts.php:99
+[24-Sep-2018 20:10:04 UTC] PHP   5. bar_graph() /home/ubuntu/workspace/cst336/practice/p3/inc/charts.php:30
+[24-Sep-2018 20:10:04 UTC] PHP   6. imagepng() /home/ubuntu/workspace/cst336/practice/p3/inc/charts.php:71
+[24-Sep-2018 20:10:04 UTC] PHP Warning:  imagepng(): Unable to open 'inc/charts/1537819804.5728.png' for writing: No such file or directory in /home/ubuntu/workspace/cst336/practice/p3/inc/charts.php on line 71
+[24-Sep-2018 20:10:04 UTC] PHP Stack trace:
+[24-Sep-2018 20:10:04 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/practice/p3/reviews.php:0
+[24-Sep-2018 20:10:04 UTC] PHP   2. movieReviews() /home/ubuntu/workspace/cst336/practice/p3/reviews.php:60
+[24-Sep-2018 20:10:04 UTC] PHP   3. createRandom() /home/ubuntu/workspace/cst336/practice/p3/reviews.php:15
+[24-Sep-2018 20:10:04 UTC] PHP   4. displayRatings() /home/ubuntu/workspace/cst336/practice/p3/inc/charts.php:99
+[24-Sep-2018 20:10:04 UTC] PHP   5. bar_graph() /home/ubuntu/workspace/cst336/practice/p3/inc/charts.php:30
+[24-Sep-2018 20:10:04 UTC] PHP   6. imagepng() /home/ubuntu/workspace/cst336/practice/p3/inc/charts.php:71

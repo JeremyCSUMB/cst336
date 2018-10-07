@@ -1,0 +1,35 @@
+    body{
+        opacity:0.9;
+        width:100%;
+        text-align:center;
+        margin-left: auto;
+        margin-right: auto;
+        color:white;
+    }
+    input {
+        background-color: white;
+        border: none;
+        color: white;
+        padding: 15px 32px;
+        text-align: center;
+        text-decoration: none;
+        display: inline-block;
+        font-size: 16px;
+        margin: 4px 2px;
+        cursor: pointer;
+    }
+    input {
+        font-size: 3em;
+        color: black;
+    }
+    h1 {
+        color: white;
+        text-align: center;
+    }
+    footer {
+        text-align: center;
+    }
+    #carousel-example-generic {
+         margin: 0 auto;   
+         width: 700px;
+    }
