@@ -28,3 +28,45 @@
 [06-Oct-2018 22:21:50 UTC] PHP Fatal error:  Array callback has to contain indices 0 and 1 in /home/ubuntu/workspace/cst336/labs/lab4/test.php on line 9
 [06-Oct-2018 22:21:50 UTC] PHP Stack trace:
 [06-Oct-2018 22:21:50 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/labs/lab4/test.php:0
+[10-Oct-2018 21:22:33 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000] [1049] Unknown database 'ottermart'' in /home/ubuntu/workspace/cst336/labs/lab6/index.php:8
+Stack trace:
+#0 /home/ubuntu/workspace/cst336/labs/lab6/index.php(8): PDO->__construct('mysql:host=loca...', 'root', '')
+#1 {main}
+  thrown in /home/ubuntu/workspace/cst336/labs/lab6/index.php on line 8
+[10-Oct-2018 21:57:59 UTC] PHP Fatal error:  Call to undefined method PDO::FETCH_ASSOC() in /home/ubuntu/workspace/cst336/labs/lab6/index.php on line 14
+[10-Oct-2018 21:57:59 UTC] PHP Stack trace:
+[10-Oct-2018 21:57:59 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/labs/lab6/index.php:0
+[10-Oct-2018 21:58:01 UTC] PHP Fatal error:  Call to undefined method PDO::FETCH_ASSOC() in /home/ubuntu/workspace/cst336/labs/lab6/index.php on line 14
+[10-Oct-2018 21:58:01 UTC] PHP Stack trace:
+[10-Oct-2018 21:58:01 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/labs/lab6/index.php:0
+[10-Oct-2018 21:58:26 UTC] PHP Parse error:  syntax error, unexpected 's' (T_STRING) in /home/ubuntu/workspace/cst336/labs/lab6/index.php on line 14
+[10-Oct-2018 22:05:05 UTC] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/ubuntu/workspace/cst336/labs/lab6/index.php on line 14
+[10-Oct-2018 22:05:05 UTC] PHP Stack trace:
+[10-Oct-2018 22:05:05 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/labs/lab6/index.php:0
+[10-Oct-2018 22:05:05 UTC] PHP   2. displayCategories() /home/ubuntu/workspace/cst336/labs/lab6/index.php:37
+[10-Oct-2018 22:10:31 UTC] PHP Warning:  include(../inc/dbConnection.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/cst336/labs/lab6/index.php on line 3
+[10-Oct-2018 22:10:31 UTC] PHP Stack trace:
+[10-Oct-2018 22:10:31 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/labs/lab6/index.php:0
+[10-Oct-2018 22:10:31 UTC] PHP Warning:  include(): Failed opening '../inc/dbConnection.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/cst336/labs/lab6/index.php on line 3
+[10-Oct-2018 22:10:31 UTC] PHP Stack trace:
+[10-Oct-2018 22:10:31 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/labs/lab6/index.php:0
+[10-Oct-2018 22:10:31 UTC] PHP Fatal error:  Call to undefined function startConnection() in /home/ubuntu/workspace/cst336/labs/lab6/index.php on line 4
+[10-Oct-2018 22:10:31 UTC] PHP Stack trace:
+[10-Oct-2018 22:10:31 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/labs/lab6/index.php:0
+[10-Oct-2018 22:10:32 UTC] PHP Warning:  include(../inc/dbConnection.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/cst336/labs/lab6/index.php on line 3
+[10-Oct-2018 22:10:32 UTC] PHP Stack trace:
+[10-Oct-2018 22:10:32 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/labs/lab6/index.php:0
+[10-Oct-2018 22:10:32 UTC] PHP Warning:  include(): Failed opening '../inc/dbConnection.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/cst336/labs/lab6/index.php on line 3
+[10-Oct-2018 22:10:32 UTC] PHP Stack trace:
+[10-Oct-2018 22:10:32 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/labs/lab6/index.php:0
+[10-Oct-2018 22:10:32 UTC] PHP Fatal error:  Call to undefined function startConnection() in /home/ubuntu/workspace/cst336/labs/lab6/index.php on line 4
+[10-Oct-2018 22:10:32 UTC] PHP Stack trace:
+[10-Oct-2018 22:10:32 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/labs/lab6/index.php:0
+[10-Oct-2018 22:10:48 UTC] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/ubuntu/workspace/cst336/labs/lab6/index.php on line 10
+[10-Oct-2018 22:10:48 UTC] PHP Stack trace:
+[10-Oct-2018 22:10:48 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/labs/lab6/index.php:0
+[10-Oct-2018 22:10:48 UTC] PHP   2. displayCategories() /home/ubuntu/workspace/cst336/labs/lab6/index.php:33
+[10-Oct-2018 22:10:50 UTC] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/ubuntu/workspace/cst336/labs/lab6/index.php on line 10
+[10-Oct-2018 22:10:50 UTC] PHP Stack trace:
+[10-Oct-2018 22:10:50 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/labs/lab6/index.php:0
+[10-Oct-2018 22:10:50 UTC] PHP   2. displayCategories() /home/ubuntu/workspace/cst336/labs/lab6/index.php:33

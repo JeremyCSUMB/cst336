@@ -341,3 +341,122 @@
 [24-Sep-2018 20:10:04 UTC] PHP   4. displayRatings() /home/ubuntu/workspace/cst336/practice/p3/inc/charts.php:99
 [24-Sep-2018 20:10:04 UTC] PHP   5. bar_graph() /home/ubuntu/workspace/cst336/practice/p3/inc/charts.php:30
 [24-Sep-2018 20:10:04 UTC] PHP   6. imagepng() /home/ubuntu/workspace/cst336/practice/p3/inc/charts.php:71
+[08-Oct-2018 19:46:47 UTC] PHP Fatal error:  Call to undefined function charAt() in /home/ubuntu/workspace/cst336/practice/p5/index.php on line 17
+[08-Oct-2018 19:46:47 UTC] PHP Stack trace:
+[08-Oct-2018 19:46:47 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/practice/p5/index.php:0
+[08-Oct-2018 19:46:47 UTC] PHP   2. generatePassword() /home/ubuntu/workspace/cst336/practice/p5/index.php:56
+[08-Oct-2018 19:47:39 UTC] PHP Fatal error:  Call to undefined function char_at() in /home/ubuntu/workspace/cst336/practice/p5/index.php on line 17
+[08-Oct-2018 19:47:39 UTC] PHP Stack trace:
+[08-Oct-2018 19:47:39 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/practice/p5/index.php:0
+[08-Oct-2018 19:47:39 UTC] PHP   2. generatePassword() /home/ubuntu/workspace/cst336/practice/p5/index.php:56
+[08-Oct-2018 19:47:43 UTC] PHP Fatal error:  Call to undefined function char_at() in /home/ubuntu/workspace/cst336/practice/p5/index.php on line 17
+[08-Oct-2018 19:47:43 UTC] PHP Stack trace:
+[08-Oct-2018 19:47:43 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/practice/p5/index.php:0
+[08-Oct-2018 19:47:43 UTC] PHP   2. generatePassword() /home/ubuntu/workspace/cst336/practice/p5/index.php:56
+[08-Oct-2018 19:47:53 UTC] PHP Fatal error:  Call to undefined function char_at() in /home/ubuntu/workspace/cst336/practice/p5/index.php on line 17
+[08-Oct-2018 19:47:53 UTC] PHP Stack trace:
+[08-Oct-2018 19:47:53 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/practice/p5/index.php:0
+[08-Oct-2018 19:47:53 UTC] PHP   2. generatePassword() /home/ubuntu/workspace/cst336/practice/p5/index.php:56
+[08-Oct-2018 19:57:05 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/ubuntu/workspace/cst336/practice/p5/index.php on line 14
+[08-Oct-2018 20:03:41 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/ubuntu/workspace/cst336/practice/p5/index.php on line 64
+[08-Oct-2018 21:57:07 UTC] PHP Fatal error:  Function name must be a string in /home/ubuntu/workspace/cst336/practice/practice/index.php on line 8
+[08-Oct-2018 21:57:07 UTC] PHP Stack trace:
+[08-Oct-2018 21:57:07 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/practice/practice/index.php:0
+[08-Oct-2018 21:57:07 UTC] PHP   2. printYears() /home/ubuntu/workspace/cst336/practice/practice/index.php:40
+[08-Oct-2018 21:57:09 UTC] PHP Fatal error:  Function name must be a string in /home/ubuntu/workspace/cst336/practice/practice/index.php on line 8
+[08-Oct-2018 21:57:09 UTC] PHP Stack trace:
+[08-Oct-2018 21:57:09 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/practice/practice/index.php:0
+[08-Oct-2018 21:57:09 UTC] PHP   2. printYears() /home/ubuntu/workspace/cst336/practice/practice/index.php:40
+[08-Oct-2018 21:57:29 UTC] PHP Fatal error:  Function name must be a string in /home/ubuntu/workspace/cst336/practice/practice/index.php on line 8
+[08-Oct-2018 21:57:29 UTC] PHP Stack trace:
+[08-Oct-2018 21:57:29 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/practice/practice/index.php:0
+[08-Oct-2018 21:57:29 UTC] PHP   2. printYears() /home/ubuntu/workspace/cst336/practice/practice/index.php:40
+[08-Oct-2018 21:57:36 UTC] PHP Fatal error:  Function name must be a string in /home/ubuntu/workspace/cst336/practice/practice/index.php on line 8
+[08-Oct-2018 21:57:36 UTC] PHP Stack trace:
+[08-Oct-2018 21:57:36 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/practice/practice/index.php:0
+[08-Oct-2018 21:57:36 UTC] PHP   2. printYears() /home/ubuntu/workspace/cst336/practice/practice/index.php:40
+[08-Oct-2018 21:57:37 UTC] PHP Fatal error:  Function name must be a string in /home/ubuntu/workspace/cst336/practice/practice/index.php on line 8
+[08-Oct-2018 21:57:37 UTC] PHP Stack trace:
+[08-Oct-2018 21:57:37 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/practice/practice/index.php:0
+[08-Oct-2018 21:57:37 UTC] PHP   2. printYears() /home/ubuntu/workspace/cst336/practice/practice/index.php:40
+[08-Oct-2018 21:57:37 UTC] PHP Fatal error:  Function name must be a string in /home/ubuntu/workspace/cst336/practice/practice/index.php on line 8
+[08-Oct-2018 21:57:37 UTC] PHP Stack trace:
+[08-Oct-2018 21:57:37 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/practice/practice/index.php:0
+[08-Oct-2018 21:57:37 UTC] PHP   2. printYears() /home/ubuntu/workspace/cst336/practice/practice/index.php:40
+[08-Oct-2018 21:57:52 UTC] PHP Fatal error:  Function name must be a string in /home/ubuntu/workspace/cst336/practice/practice/index.php on line 8
+[08-Oct-2018 21:57:52 UTC] PHP Stack trace:
+[08-Oct-2018 21:57:52 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/practice/practice/index.php:0
+[08-Oct-2018 21:57:52 UTC] PHP   2. printYears() /home/ubuntu/workspace/cst336/practice/practice/index.php:40
+[08-Oct-2018 21:57:53 UTC] PHP Fatal error:  Function name must be a string in /home/ubuntu/workspace/cst336/practice/practice/index.php on line 8
+[08-Oct-2018 21:57:53 UTC] PHP Stack trace:
+[08-Oct-2018 21:57:53 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/practice/practice/index.php:0
+[08-Oct-2018 21:57:53 UTC] PHP   2. printYears() /home/ubuntu/workspace/cst336/practice/practice/index.php:40
+[08-Oct-2018 21:58:09 UTC] PHP Fatal error:  Function name must be a string in /home/ubuntu/workspace/cst336/practice/practice/index.php on line 8
+[08-Oct-2018 21:58:09 UTC] PHP Stack trace:
+[08-Oct-2018 21:58:09 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/practice/practice/index.php:0
+[08-Oct-2018 21:58:09 UTC] PHP   2. printYears() /home/ubuntu/workspace/cst336/practice/practice/index.php:40
+[08-Oct-2018 21:58:09 UTC] PHP Fatal error:  Function name must be a string in /home/ubuntu/workspace/cst336/practice/practice/index.php on line 8
+[08-Oct-2018 21:58:09 UTC] PHP Stack trace:
+[08-Oct-2018 21:58:09 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/practice/practice/index.php:0
+[08-Oct-2018 21:58:09 UTC] PHP   2. printYears() /home/ubuntu/workspace/cst336/practice/practice/index.php:40
+[08-Oct-2018 21:58:10 UTC] PHP Fatal error:  Function name must be a string in /home/ubuntu/workspace/cst336/practice/practice/index.php on line 8
+[08-Oct-2018 21:58:10 UTC] PHP Stack trace:
+[08-Oct-2018 21:58:10 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/practice/practice/index.php:0
+[08-Oct-2018 21:58:10 UTC] PHP   2. printYears() /home/ubuntu/workspace/cst336/practice/practice/index.php:40
+[08-Oct-2018 21:58:29 UTC] PHP Fatal error:  Function name must be a string in /home/ubuntu/workspace/cst336/practice/practice/index.php on line 8
+[08-Oct-2018 21:58:29 UTC] PHP Stack trace:
+[08-Oct-2018 21:58:29 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/practice/practice/index.php:0
+[08-Oct-2018 21:58:29 UTC] PHP   2. printYears() /home/ubuntu/workspace/cst336/practice/practice/index.php:40
+[08-Oct-2018 21:58:29 UTC] PHP Fatal error:  Function name must be a string in /home/ubuntu/workspace/cst336/practice/practice/index.php on line 8
+[08-Oct-2018 21:58:29 UTC] PHP Stack trace:
+[08-Oct-2018 21:58:29 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/practice/practice/index.php:0
+[08-Oct-2018 21:58:29 UTC] PHP   2. printYears() /home/ubuntu/workspace/cst336/practice/practice/index.php:40
+[08-Oct-2018 21:58:30 UTC] PHP Fatal error:  Function name must be a string in /home/ubuntu/workspace/cst336/practice/practice/index.php on line 8
+[08-Oct-2018 21:58:30 UTC] PHP Stack trace:
+[08-Oct-2018 21:58:30 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/practice/practice/index.php:0
+[08-Oct-2018 21:58:30 UTC] PHP   2. printYears() /home/ubuntu/workspace/cst336/practice/practice/index.php:40
+[08-Oct-2018 21:58:30 UTC] PHP Fatal error:  Function name must be a string in /home/ubuntu/workspace/cst336/practice/practice/index.php on line 8
+[08-Oct-2018 21:58:30 UTC] PHP Stack trace:
+[08-Oct-2018 21:58:30 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/practice/practice/index.php:0
+[08-Oct-2018 21:58:30 UTC] PHP   2. printYears() /home/ubuntu/workspace/cst336/practice/practice/index.php:40
+[08-Oct-2018 21:58:31 UTC] PHP Fatal error:  Function name must be a string in /home/ubuntu/workspace/cst336/practice/practice/index.php on line 8
+[08-Oct-2018 21:58:31 UTC] PHP Stack trace:
+[08-Oct-2018 21:58:31 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/practice/practice/index.php:0
+[08-Oct-2018 21:58:31 UTC] PHP   2. printYears() /home/ubuntu/workspace/cst336/practice/practice/index.php:40
+[08-Oct-2018 21:59:27 UTC] PHP Fatal error:  Function name must be a string in /home/ubuntu/workspace/cst336/practice/practice/index.php on line 8
+[08-Oct-2018 21:59:27 UTC] PHP Stack trace:
+[08-Oct-2018 21:59:27 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/practice/practice/index.php:0
+[08-Oct-2018 21:59:27 UTC] PHP   2. printYears() /home/ubuntu/workspace/cst336/practice/practice/index.php:40
+[08-Oct-2018 21:59:27 UTC] PHP Fatal error:  Function name must be a string in /home/ubuntu/workspace/cst336/practice/practice/index.php on line 8
+[08-Oct-2018 21:59:27 UTC] PHP Stack trace:
+[08-Oct-2018 21:59:27 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/practice/practice/index.php:0
+[08-Oct-2018 21:59:27 UTC] PHP   2. printYears() /home/ubuntu/workspace/cst336/practice/practice/index.php:40
+[08-Oct-2018 21:59:28 UTC] PHP Fatal error:  Function name must be a string in /home/ubuntu/workspace/cst336/practice/practice/index.php on line 8
+[08-Oct-2018 21:59:28 UTC] PHP Stack trace:
+[08-Oct-2018 21:59:28 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/practice/practice/index.php:0
+[08-Oct-2018 21:59:28 UTC] PHP   2. printYears() /home/ubuntu/workspace/cst336/practice/practice/index.php:40
+[08-Oct-2018 21:59:29 UTC] PHP Fatal error:  Function name must be a string in /home/ubuntu/workspace/cst336/practice/practice/index.php on line 8
+[08-Oct-2018 21:59:29 UTC] PHP Stack trace:
+[08-Oct-2018 21:59:29 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/practice/practice/index.php:0
+[08-Oct-2018 21:59:29 UTC] PHP   2. printYears() /home/ubuntu/workspace/cst336/practice/practice/index.php:40
+[08-Oct-2018 21:59:30 UTC] PHP Fatal error:  Function name must be a string in /home/ubuntu/workspace/cst336/practice/practice/index.php on line 8
+[08-Oct-2018 21:59:30 UTC] PHP Stack trace:
+[08-Oct-2018 21:59:30 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/practice/practice/index.php:0
+[08-Oct-2018 21:59:30 UTC] PHP   2. printYears() /home/ubuntu/workspace/cst336/practice/practice/index.php:40
+[08-Oct-2018 21:59:30 UTC] PHP Fatal error:  Function name must be a string in /home/ubuntu/workspace/cst336/practice/practice/index.php on line 8
+[08-Oct-2018 21:59:30 UTC] PHP Stack trace:
+[08-Oct-2018 21:59:30 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/practice/practice/index.php:0
+[08-Oct-2018 21:59:30 UTC] PHP   2. printYears() /home/ubuntu/workspace/cst336/practice/practice/index.php:40
+[08-Oct-2018 21:59:31 UTC] PHP Fatal error:  Function name must be a string in /home/ubuntu/workspace/cst336/practice/practice/index.php on line 8
+[08-Oct-2018 21:59:31 UTC] PHP Stack trace:
+[08-Oct-2018 21:59:31 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/practice/practice/index.php:0
+[08-Oct-2018 21:59:31 UTC] PHP   2. printYears() /home/ubuntu/workspace/cst336/practice/practice/index.php:40
+[08-Oct-2018 22:00:56 UTC] PHP Fatal error:  Function name must be a string in /home/ubuntu/workspace/cst336/practice/practice/index.php on line 8
+[08-Oct-2018 22:00:56 UTC] PHP Stack trace:
+[08-Oct-2018 22:00:56 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/practice/practice/index.php:0
+[08-Oct-2018 22:00:56 UTC] PHP   2. printYears() /home/ubuntu/workspace/cst336/practice/practice/index.php:41
+[08-Oct-2018 22:00:57 UTC] PHP Fatal error:  Function name must be a string in /home/ubuntu/workspace/cst336/practice/practice/index.php on line 8
+[08-Oct-2018 22:00:57 UTC] PHP Stack trace:
+[08-Oct-2018 22:00:57 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/practice/practice/index.php:0
+[08-Oct-2018 22:00:57 UTC] PHP   2. printYears() /home/ubuntu/workspace/cst336/practice/practice/index.php:41
+[08-Oct-2018 22:15:47 UTC] PHP Fatal error:  Cannot use isset() on the result of an expression (you can use "null !== expression" instead) in /home/ubuntu/workspace/cst336/practice/practice/index.php on line 45

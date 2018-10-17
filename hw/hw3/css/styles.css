@@ -1,0 +1,41 @@
+body {
+    background-image: url("../img/background.jpeg");
+    background-size: 100%;
+    font-family: 'Chakra Petch', sans-serif;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+}
+
+#getForm {
+    font-size: 18px;
+    padding: 10px;
+    color: white;
+}
+
+
+h1 {
+    font-weight: bolder;
+    color: white;
+}
+h2 {
+    font-style: italic;
+    font-weight: bold;
+    color: white;
+}
+
+h3 {
+    font-style: normal;
+    font-weight: bolder;
+    color: white;
+}
+
+footer {
+    padding: 10px;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    font-size: 12px;
+    font-weight: lighter;
+    color: white;
+}

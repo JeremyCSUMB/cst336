@@ -208,3 +208,46 @@
 [24-Sep-2018 07:18:03 UTC] PHP   3. generateImage() /home/ubuntu/workspace/cst336/hw/hw2/inc/functions.php:21
 [24-Sep-2018 07:18:03 UTC] PHP   4. randFact() /home/ubuntu/workspace/cst336/hw/hw2/inc/functions.php:44
 [24-Sep-2018 07:18:03 UTC] PHP   5. array_pop() /home/ubuntu/workspace/cst336/hw/hw2/inc/functions.php:64
+[15-Oct-2018 22:39:20 UTC] PHP Warning:  include(inc/functions.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/cst336/hw/hw3/index.php on line 2
+[15-Oct-2018 22:39:20 UTC] PHP Stack trace:
+[15-Oct-2018 22:39:20 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/hw/hw3/index.php:0
+[15-Oct-2018 22:39:20 UTC] PHP Warning:  include(): Failed opening 'inc/functions.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/cst336/hw/hw3/index.php on line 2
+[15-Oct-2018 22:39:20 UTC] PHP Stack trace:
+[15-Oct-2018 22:39:20 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/hw/hw3/index.php:0
+[15-Oct-2018 22:39:22 UTC] PHP Warning:  include(inc/functions.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/cst336/hw/hw3/index.php on line 2
+[15-Oct-2018 22:39:22 UTC] PHP Stack trace:
+[15-Oct-2018 22:39:22 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/hw/hw3/index.php:0
+[15-Oct-2018 22:39:22 UTC] PHP Warning:  include(): Failed opening 'inc/functions.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/cst336/hw/hw3/index.php on line 2
+[15-Oct-2018 22:39:22 UTC] PHP Stack trace:
+[15-Oct-2018 22:39:22 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/hw/hw3/index.php:0
+[15-Oct-2018 22:39:23 UTC] PHP Warning:  include(inc/functions.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/cst336/hw/hw3/index.php on line 2
+[15-Oct-2018 22:39:23 UTC] PHP Stack trace:
+[15-Oct-2018 22:39:23 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/hw/hw3/index.php:0
+[15-Oct-2018 22:39:23 UTC] PHP Warning:  include(): Failed opening 'inc/functions.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/cst336/hw/hw3/index.php on line 2
+[15-Oct-2018 22:39:23 UTC] PHP Stack trace:
+[15-Oct-2018 22:39:23 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/hw/hw3/index.php:0
+[17-Oct-2018 04:36:31 UTC] PHP Warning:  Missing argument 4 for convertToHex(), called in /home/ubuntu/workspace/cst336/hw/hw3/inc/functions.php on line 12 and defined in /home/ubuntu/workspace/cst336/hw/hw3/inc/functions.php on line 32
+[17-Oct-2018 04:36:31 UTC] PHP Stack trace:
+[17-Oct-2018 04:36:31 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/hw/hw3/index.php:0
+[17-Oct-2018 04:36:31 UTC] PHP   2. readData() /home/ubuntu/workspace/cst336/hw/hw3/index.php:42
+[17-Oct-2018 04:36:31 UTC] PHP   3. convertToHex() /home/ubuntu/workspace/cst336/hw/hw3/inc/functions.php:12
+[17-Oct-2018 04:36:51 UTC] PHP Warning:  Missing argument 4 for convertToHex(), called in /home/ubuntu/workspace/cst336/hw/hw3/inc/functions.php on line 12 and defined in /home/ubuntu/workspace/cst336/hw/hw3/inc/functions.php on line 32
+[17-Oct-2018 04:36:51 UTC] PHP Stack trace:
+[17-Oct-2018 04:36:51 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/hw/hw3/index.php:0
+[17-Oct-2018 04:36:51 UTC] PHP   2. readData() /home/ubuntu/workspace/cst336/hw/hw3/index.php:42
+[17-Oct-2018 04:36:51 UTC] PHP   3. convertToHex() /home/ubuntu/workspace/cst336/hw/hw3/inc/functions.php:12
+[17-Oct-2018 04:37:10 UTC] PHP Warning:  Missing argument 4 for convertToHex(), called in /home/ubuntu/workspace/cst336/hw/hw3/inc/functions.php on line 12 and defined in /home/ubuntu/workspace/cst336/hw/hw3/inc/functions.php on line 32
+[17-Oct-2018 04:37:10 UTC] PHP Stack trace:
+[17-Oct-2018 04:37:10 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/hw/hw3/index.php:0
+[17-Oct-2018 04:37:10 UTC] PHP   2. readData() /home/ubuntu/workspace/cst336/hw/hw3/index.php:42
+[17-Oct-2018 04:37:10 UTC] PHP   3. convertToHex() /home/ubuntu/workspace/cst336/hw/hw3/inc/functions.php:12
+[17-Oct-2018 04:37:11 UTC] PHP Warning:  Missing argument 4 for convertToHex(), called in /home/ubuntu/workspace/cst336/hw/hw3/inc/functions.php on line 12 and defined in /home/ubuntu/workspace/cst336/hw/hw3/inc/functions.php on line 32
+[17-Oct-2018 04:37:11 UTC] PHP Stack trace:
+[17-Oct-2018 04:37:11 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/hw/hw3/index.php:0
+[17-Oct-2018 04:37:11 UTC] PHP   2. readData() /home/ubuntu/workspace/cst336/hw/hw3/index.php:42
+[17-Oct-2018 04:37:11 UTC] PHP   3. convertToHex() /home/ubuntu/workspace/cst336/hw/hw3/inc/functions.php:12
+[17-Oct-2018 04:37:12 UTC] PHP Warning:  Missing argument 4 for convertToHex(), called in /home/ubuntu/workspace/cst336/hw/hw3/inc/functions.php on line 12 and defined in /home/ubuntu/workspace/cst336/hw/hw3/inc/functions.php on line 32
+[17-Oct-2018 04:37:12 UTC] PHP Stack trace:
+[17-Oct-2018 04:37:12 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/hw/hw3/index.php:0
+[17-Oct-2018 04:37:12 UTC] PHP   2. readData() /home/ubuntu/workspace/cst336/hw/hw3/index.php:42
+[17-Oct-2018 04:37:12 UTC] PHP   3. convertToHex() /home/ubuntu/workspace/cst336/hw/hw3/inc/functions.php:12
