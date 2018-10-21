@@ -70,3 +70,18 @@ Stack trace:
 [10-Oct-2018 22:10:50 UTC] PHP Stack trace:
 [10-Oct-2018 22:10:50 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/labs/lab6/index.php:0
 [10-Oct-2018 22:10:50 UTC] PHP   2. displayCategories() /home/ubuntu/workspace/cst336/labs/lab6/index.php:33
+[21-Oct-2018 00:24:14 UTC] PHP Fatal error:  Call to undefined function dispayCart() in /home/ubuntu/workspace/cst336/labs/lab5/scart.php on line 54
+[21-Oct-2018 00:24:14 UTC] PHP Stack trace:
+[21-Oct-2018 00:24:14 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/labs/lab5/scart.php:0
+[21-Oct-2018 00:24:48 UTC] PHP Fatal error:  Call to undefined function dispayCart() in /home/ubuntu/workspace/cst336/labs/lab5/scart.php on line 54
+[21-Oct-2018 00:24:48 UTC] PHP Stack trace:
+[21-Oct-2018 00:24:48 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/labs/lab5/scart.php:0
+[21-Oct-2018 00:24:50 UTC] PHP Fatal error:  Call to undefined function dispayCart() in /home/ubuntu/workspace/cst336/labs/lab5/scart.php on line 54
+[21-Oct-2018 00:24:50 UTC] PHP Stack trace:
+[21-Oct-2018 00:24:50 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/labs/lab5/scart.php:0
+[21-Oct-2018 00:24:59 UTC] PHP Fatal error:  Call to undefined function dispayCart() in /home/ubuntu/workspace/cst336/labs/lab5/scart.php on line 54
+[21-Oct-2018 00:24:59 UTC] PHP Stack trace:
+[21-Oct-2018 00:24:59 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/labs/lab5/scart.php:0
+[21-Oct-2018 00:25:02 UTC] PHP Fatal error:  Call to undefined function dispayCart() in /home/ubuntu/workspace/cst336/labs/lab5/scart.php on line 54
+[21-Oct-2018 00:25:02 UTC] PHP Stack trace:
+[21-Oct-2018 00:25:02 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/labs/lab5/scart.php:0

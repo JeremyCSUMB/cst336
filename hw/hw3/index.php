@@ -50,7 +50,7 @@
         <footer>
             <hr>
             CST 336: Internet Programming &copy; 2018 Jeremy Shaw <br />
-            <strong>Disclaimer:</strong> The information in this website is fake. I do not own Pokemon or the any of the associated images.
+            <strong>Disclaimer:</strong> The information in this website is fake.
             <br />
             It is for educational purposes only.
             <br />
