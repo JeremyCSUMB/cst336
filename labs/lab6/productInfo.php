@@ -5,7 +5,6 @@ $dbConn = startConnection("ottermart");
 
 function displayProductInfo(){
     global $dbConn;
-    
     $productId = $_GET['productId'];
     $sql = "SELECT * 
             FROM om_purchase 
@@ -13,16 +12,11 @@ function displayProductInfo(){
             WHERE productId = $productId";
     $stmt = $dbConn->prepare($sql);
     $stmt->execute();
-    $records = $stmt->fetchAll(PDO::FETCH_ASSOC); //fetchAll returns an Array of Arrays
-    
+    $records = $stmt->fetchAll(PDO::FETCH_ASSOC);
     echo "<img src='" . $records[0]['productImage'] . "'  width='150'>";
-    
     if (empty($records[0]['purchaseId'])) {
-        
         echo "<h3> Product hasn't been purchased yet </h3>";
-        
     }
-    
     echo "<table>";
     echo "<tr>";
     echo "<th>Quantity</th><th>Unit Price</th><th> Purchase Date</th>";
@@ -34,9 +28,6 @@ function displayProductInfo(){
         echo "</tr>";  
     }
     echo "</table>";
-    
-    //print_r($records);
-    
 }
 
 
@@ -49,10 +40,7 @@ function displayProductInfo(){
         <title> Product Purchase History </title>
     </head>
     <body>
-
         <h2>Product Purchase History</h2>
-        
         <?=displayProductInfo()?>
-        
     </body>
 </html>
