@@ -6,6 +6,9 @@ function readData() {
     $amount = $_GET['amount'];
     $range = $_GET['range'];
     $check = $_GET['check'];
+    if ($number == "") {
+        echo "<h3>Please enter a number! </h3>";
+    }
     if ($type == 'bin') {
         convertToBinary($number, $amount, $range, $check);
     } else if ($type == 'hex') {

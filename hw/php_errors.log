@@ -254,3 +254,8 @@
 [22-Oct-2018 06:02:34 UTC] PHP Fatal error:  Cannot redeclare readData() (previously declared in /home/ubuntu/workspace/cst336/hw/hw3/inc/functions.php:3) in /home/ubuntu/workspace/cst336/hw/hw3/inc/functions.php on line 72
 [22-Oct-2018 06:02:34 UTC] PHP Stack trace:
 [22-Oct-2018 06:02:34 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/hw/hw3/index.php:0
+[29-Oct-2018 21:25:53 UTC] PHP Fatal error:  Cannot use isset() on the result of an expression (you can use "null !== expression" instead) in /home/ubuntu/workspace/cst336/hw/hw3/index.php on line 40
+[29-Oct-2018 21:25:54 UTC] PHP Fatal error:  Cannot use isset() on the result of an expression (you can use "null !== expression" instead) in /home/ubuntu/workspace/cst336/hw/hw3/index.php on line 40
+[29-Oct-2018 21:27:40 UTC] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/ubuntu/workspace/cst336/hw/hw3/index.php on line 40
+[29-Oct-2018 21:27:41 UTC] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/ubuntu/workspace/cst336/hw/hw3/index.php on line 40
+[29-Oct-2018 21:27:42 UTC] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/ubuntu/workspace/cst336/hw/hw3/index.php on line 40
