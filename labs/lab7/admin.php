@@ -21,7 +21,7 @@ validateSession();
             }
         </style>
         <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css" type="text/css" />
-        
+        <link href="css/styles.css" rel="stylesheet" type="text/css" />
         <script>
         
             function confirmDelete() {
@@ -31,7 +31,7 @@ validateSession();
             
             function openModal() {
                 
-                $('#myModal').modal("show");
+                global ('#myModal').modal("show");
             }
             
             

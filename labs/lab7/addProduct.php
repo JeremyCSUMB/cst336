@@ -35,6 +35,7 @@ if (isset($_GET['addProduct'])) {
 <html>
     <head>
         <title> Admin Section: Add New Product </title>
+        <link href="css/styles.css" rel="stylesheet" type="text/css" />
     </head>
     <body>
         

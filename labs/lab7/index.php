@@ -2,6 +2,7 @@
 <html>
     <head>
         <title> Admin Login </title>
+        <link href="css/styles.css" rel="stylesheet" type="text/css" />
     </head>
     <body>
 

@@ -9,14 +9,13 @@ validateSession();
 if (isset($_GET['productId'])) {
   $productInfo = getProductInfo($_GET['productId']);    
 }
-
-
 ?>
 
 <!DOCTYPE html>
 <html>
     <head>
         <title> Product Info </title>
+        <link href="css/styles.css" rel="stylesheet" type="text/css" />
     </head>
     <body>
     

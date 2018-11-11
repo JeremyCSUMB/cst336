@@ -20,8 +20,7 @@ $record = $stmt->fetch(PDO::FETCH_ASSOC);
 
 
 if (empty($record)) {
-    
-    echo "Wrong username or password!!";
+    echo "ERROR: Wrong username or password. Please try again.";
 } else {
    
    $_SESSION['adminFullName'] = $record['firstName'] .  "   "  . $record['lastName'];

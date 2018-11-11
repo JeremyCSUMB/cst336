@@ -5,8 +5,6 @@ include '../../inc/dbConnection.php';
 $dbConn = startConnection("ottermart");
 include 'inc/functions.php';
 validateSession();
-
-
 if (isset($_GET['updateProduct'])){ 
     $productName = $_GET['productName'];
     $description = $_GET['description'];
@@ -24,27 +22,21 @@ if (isset($_GET['updateProduct'])){
          
     
 }
-
-
 if (isset($_GET['productId'])) {
-
   $productInfo = getProductInfo($_GET['productId']);    
-    
 }
-
-
 ?>
+
 
 <!DOCTYPE html>
 <html>
     <head>
-        <title> Update Products! </title>
+        <title> Update Products </title>
+        <link href="css/styles.css" rel="stylesheet" type="text/css" />
     </head>
     <body>
-
         <h1> Updating a Product </h1>
-        
-        <form>
+        <form action="admin.php" method="GET">
             <input type="hidden" name="productId" value="<?=$productInfo['productId']?>">
            Product name: <input type="text" name="productName" value="<?=$productInfo['productName']?>"><br>
            Description: <textarea name="description" cols="50" rows="4"> <?=$productInfo['productDescription']?> </textarea><br>
@@ -53,23 +45,17 @@ if (isset($_GET['productId'])) {
            <select name="catId">
               <option value="">Select One</option>
               <?php
-              
               $categories = getCategories();
-              
               foreach ($categories as $category) {
-                  
                   echo "<option  "; 
                   echo  ($category['catId']==$productInfo['catId'])?"selected":"";
                   echo " value='".$category['catId']."'>" . $category['catName'] . "</option>";
                   
               }
-              
               ?>
            </select> <br />
            Set Image Url: <input type="text" name="productImage" value="<?=$productInfo['productImage']?>"><br>
            <input type="submit" name="updateProduct" value="Update Product">
         </form>
-        
-        
     </body>
 </html>
