@@ -1,0 +1,66 @@
+[12-Dec-2018 00:09:37 UTC] PHP Fatal error:  Call to undefined function getDatabaseConnection() in /home/ubuntu/workspace/cst336/final_project/index.php on line 5
+[12-Dec-2018 00:09:37 UTC] PHP Stack trace:
+[12-Dec-2018 00:09:37 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/final_project/index.php:0
+[12-Dec-2018 00:09:39 UTC] PHP Fatal error:  Call to undefined function getDatabaseConnection() in /home/ubuntu/workspace/cst336/final_project/index.php on line 5
+[12-Dec-2018 00:09:39 UTC] PHP Stack trace:
+[12-Dec-2018 00:09:39 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/final_project/index.php:0
+[12-Dec-2018 00:09:41 UTC] PHP Fatal error:  Call to undefined function getDatabaseConnection() in /home/ubuntu/workspace/cst336/final_project/index.php on line 5
+[12-Dec-2018 00:09:41 UTC] PHP Stack trace:
+[12-Dec-2018 00:09:41 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/final_project/index.php:0
+[12-Dec-2018 00:09:41 UTC] PHP Fatal error:  Call to undefined function getDatabaseConnection() in /home/ubuntu/workspace/cst336/final_project/index.php on line 5
+[12-Dec-2018 00:09:41 UTC] PHP Stack trace:
+[12-Dec-2018 00:09:41 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/final_project/index.php:0
+[12-Dec-2018 00:09:42 UTC] PHP Fatal error:  Call to undefined function getDatabaseConnection() in /home/ubuntu/workspace/cst336/final_project/index.php on line 5
+[12-Dec-2018 00:09:42 UTC] PHP Stack trace:
+[12-Dec-2018 00:09:42 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/final_project/index.php:0
+[12-Dec-2018 00:09:42 UTC] PHP Fatal error:  Call to undefined function getDatabaseConnection() in /home/ubuntu/workspace/cst336/final_project/index.php on line 5
+[12-Dec-2018 00:09:42 UTC] PHP Stack trace:
+[12-Dec-2018 00:09:42 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/final_project/index.php:0
+[12-Dec-2018 00:19:15 UTC] PHP Fatal error:  Cannot redeclare displayColor() (previously declared in /home/ubuntu/workspace/cst336/final_project/index.php:20) in /home/ubuntu/workspace/cst336/final_project/index.php on line 44
+[12-Dec-2018 00:19:16 UTC] PHP Fatal error:  Cannot redeclare displayColor() (previously declared in /home/ubuntu/workspace/cst336/final_project/index.php:20) in /home/ubuntu/workspace/cst336/final_project/index.php on line 44
+[12-Dec-2018 00:19:17 UTC] PHP Fatal error:  Cannot redeclare displayColor() (previously declared in /home/ubuntu/workspace/cst336/final_project/index.php:20) in /home/ubuntu/workspace/cst336/final_project/index.php on line 44
+[12-Dec-2018 00:19:26 UTC] PHP Fatal error:  Cannot redeclare displayColor() (previously declared in /home/ubuntu/workspace/cst336/final_project/index.php:20) in /home/ubuntu/workspace/cst336/final_project/index.php on line 44
+[12-Dec-2018 00:19:27 UTC] PHP Fatal error:  Cannot redeclare displayColor() (previously declared in /home/ubuntu/workspace/cst336/final_project/index.php:20) in /home/ubuntu/workspace/cst336/final_project/index.php on line 44
+[12-Dec-2018 00:19:28 UTC] PHP Fatal error:  Cannot redeclare displayColor() (previously declared in /home/ubuntu/workspace/cst336/final_project/index.php:20) in /home/ubuntu/workspace/cst336/final_project/index.php on line 44
+[12-Dec-2018 00:19:30 UTC] PHP Fatal error:  Cannot redeclare displayColor() (previously declared in /home/ubuntu/workspace/cst336/final_project/index.php:20) in /home/ubuntu/workspace/cst336/final_project/index.php on line 44
+[12-Dec-2018 00:19:38 UTC] PHP Fatal error:  Cannot redeclare displayColor() (previously declared in /home/ubuntu/workspace/cst336/final_project/index.php:20) in /home/ubuntu/workspace/cst336/final_project/index.php on line 44
+[12-Dec-2018 00:23:08 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42S22]: Column not found: 1054 Unknown column 'vehicleId' in 'order clause'' in /home/ubuntu/workspace/cst336/final_project/index.php:38
+Stack trace:
+#0 /home/ubuntu/workspace/cst336/final_project/index.php(38): PDOStatement->execute()
+#1 /home/ubuntu/workspace/cst336/final_project/index.php(82): displayType()
+#2 {main}
+  thrown in /home/ubuntu/workspace/cst336/final_project/index.php on line 38
+[12-Dec-2018 00:24:10 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42S22]: Column not found: 1054 Unknown column 'vehicleId' in 'order clause'' in /home/ubuntu/workspace/cst336/final_project/index.php:38
+Stack trace:
+#0 /home/ubuntu/workspace/cst336/final_project/index.php(38): PDOStatement->execute()
+#1 /home/ubuntu/workspace/cst336/final_project/index.php(82): displayType()
+#2 {main}
+  thrown in /home/ubuntu/workspace/cst336/final_project/index.php on line 38
+[12-Dec-2018 00:24:11 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42S22]: Column not found: 1054 Unknown column 'vehicleId' in 'order clause'' in /home/ubuntu/workspace/cst336/final_project/index.php:38
+Stack trace:
+#0 /home/ubuntu/workspace/cst336/final_project/index.php(38): PDOStatement->execute()
+#1 /home/ubuntu/workspace/cst336/final_project/index.php(82): displayType()
+#2 {main}
+  thrown in /home/ubuntu/workspace/cst336/final_project/index.php on line 38
+[12-Dec-2018 00:33:00 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42S02]: Base table or view not found: 1146 Table 'ottercars.oc_product' doesn't exist' in /home/ubuntu/workspace/cst336/final_project/inc/functions.php:97
+Stack trace:
+#0 /home/ubuntu/workspace/cst336/final_project/inc/functions.php(97): PDOStatement->execute(Array)
+#1 /home/ubuntu/workspace/cst336/final_project/index.php(90): displayResults()
+#2 {main}
+  thrown in /home/ubuntu/workspace/cst336/final_project/inc/functions.php on line 97
+[12-Dec-2018 00:33:18 UTC] PHP Fatal error:  Call to undefined function showAdditionalInfo() in /home/ubuntu/workspace/cst336/final_project/inc/functions.php on line 115
+[12-Dec-2018 00:33:18 UTC] PHP Stack trace:
+[12-Dec-2018 00:33:18 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/final_project/index.php:0
+[12-Dec-2018 00:33:18 UTC] PHP   2. displayResults() /home/ubuntu/workspace/cst336/final_project/index.php:90
+[12-Dec-2018 00:33:24 UTC] PHP Fatal error:  Call to undefined function showAdditionalInfo() in /home/ubuntu/workspace/cst336/final_project/inc/functions.php on line 115
+[12-Dec-2018 00:33:24 UTC] PHP Stack trace:
+[12-Dec-2018 00:33:24 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/final_project/index.php:0
+[12-Dec-2018 00:33:24 UTC] PHP   2. displayResults() /home/ubuntu/workspace/cst336/final_project/index.php:90
+[12-Dec-2018 00:33:25 UTC] PHP Fatal error:  Call to undefined function showAdditionalInfo() in /home/ubuntu/workspace/cst336/final_project/inc/functions.php on line 115
+[12-Dec-2018 00:33:25 UTC] PHP Stack trace:
+[12-Dec-2018 00:33:25 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/final_project/index.php:0
+[12-Dec-2018 00:33:25 UTC] PHP   2. displayResults() /home/ubuntu/workspace/cst336/final_project/index.php:90
+[12-Dec-2018 00:34:08 UTC] PHP Fatal error:  Call to undefined function showAdditionalInfo() in /home/ubuntu/workspace/cst336/final_project/inc/functions.php on line 115
+[12-Dec-2018 00:34:08 UTC] PHP Stack trace:
+[12-Dec-2018 00:34:08 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/final_project/index.php:0
+[12-Dec-2018 00:34:08 UTC] PHP   2. displayResults() /home/ubuntu/workspace/cst336/final_project/index.php:90
