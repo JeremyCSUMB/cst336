@@ -42,6 +42,7 @@ function updateItems() {
         $np["colorId"] = $colorId;
         $stmt = $dbConn->prepare($sql);
         $stmt->execute($np);
+        header("Location: admin.php");
     }
 }
 
